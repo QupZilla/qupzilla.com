@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $LANG = array(
    "site_title"               => "Kapzila - Lagan multiplatformski veb pregledač",
    "qupzilla"                 => "Kapzila",

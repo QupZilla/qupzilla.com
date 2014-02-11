@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $LANG = array(
    "site_title"               => "QupZilla - Ελαφρύς πολυπλατφορμικός περιηγητής ιστού",
    "qupzilla"                 => "QupZilla",

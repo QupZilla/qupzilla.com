@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $LANG = array(
    "site_title"               => "QupZilla - მარტივი მრავალპლატფორმული ბრაუზერი",
    "qupzilla"                 => "QupZilla",

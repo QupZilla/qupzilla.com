@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 $LANG = array(
    "site_title"               => "QupZilla - マルチプラットフォーム対応、軽量ブラウザ",
    "qupzilla"                 => "QupZilla",
