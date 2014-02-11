@@ -4,16 +4,16 @@
       <table class="screeny">
       <tr><td colspan=4><h2>Linux KDE</h2></td></tr>
       <tr><td>
-      <a title="QupZilla : Linux KDE" href="screens/kde.png" rel="lightbox[screens]">
-      <img width="200" height="200" src="screens/thumbs/kde.png"></a>
+      <a title="QupZilla : Linux KDE" href="screens/kde_window.png" rel="lightbox[screens]">
+      <img width="200" height="200" src="screens/thumbs/kde_window.png"></a>
       </td>
       <td>
-      <a title="Speed Dial : Linux KDE" href="screens/dial_kde.png" rel="lightbox[screens]"><img width="200" height="200" src="screens/thumbs/dial_kde.png"></a>
+      <a title="Speed Dial : Linux KDE" href="screens/kde_speeddial.png" rel="lightbox[screens]"><img width="200" height="200" src="screens/thumbs/kde_speeddial.png"></a>
       </td>
-    <td><a title="Library : Linux KDE" href="screens/library_kde.png" rel="lightbox[screens]">
-    <img width="200" height="200" src="screens/thumbs/library_kde.png"></a></td>
-    <td><a title="Preferences : Linux KDE" href="screens/preferences_kde.png" rel="lightbox[screens]">
-    <img width="200" height="200" src="screens/thumbs/preferences_kde.png"></a>
+    <td><a title="Library : Linux KDE" href="screens/kde_library.png" rel="lightbox[screens]">
+    <img width="200" height="200" src="screens/thumbs/kde_library.png"></a></td>
+    <td><a title="Preferences : Linux KDE" href="screens/kde_preferences.png" rel="lightbox[screens]">
+    <img width="200" height="200" src="screens/thumbs/kde_preferences.png"></a>
     </td></tr>
     <tr><td colspan=4><h2>Linux Gnome</h2></td></tr>
       <tr><td>
