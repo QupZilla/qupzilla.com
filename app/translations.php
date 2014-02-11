@@ -12,7 +12,7 @@ $ACCEPT_LANGUAGE = strtolower($ACCEPT_LANGUAGE);
 $short_lang = substr($ACCEPT_LANGUAGE, 0, 2);
 $long_lang = substr($ACCEPT_LANGUAGE, 0, 5);
 
-// Defaults
+// Default language
 require_once('translations/en_US.php');
 
 $lang_id = "en_US";
@@ -110,7 +110,6 @@ switch ($short_lang) {
         $lang_id = "nl_NL";
         break;
 
-        // nqo
     case "pl":
         $lang_id = "pl_PL";
         break;
@@ -247,6 +246,7 @@ switch ($long_lang) {
     // ??
     case "nqo":
         $lang_id = "nqo";
+        $lang_direction = "RTL";
         break;
 
     default:
