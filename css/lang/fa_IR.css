@@ -1,0 +1,8 @@
+header .logo {
+	background:url(../../images/qupzilla.png) no-repeat 140px 0;
+}
+
+#header_description {
+	margin-right: 65px;
+	margin-left: 25px;
+}

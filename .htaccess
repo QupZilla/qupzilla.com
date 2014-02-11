@@ -1,0 +1,15 @@
+# Do not remove this line, otherwise mod_rewrite rules will stop working
+RewriteBase /
+RewriteEngine On
+
+# Redirect to www. version (works for all top-level domains)
+RewriteCond %{HTTP_HOST} ^qupzilla. [NC]
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+
+# Redirect to www. version (works only for qupzilla.com)
+#RewriteCond %{HTTP_HOST} ^qupzilla.com$ [NC]
+#RewriteRule ^(.*)$ http://www.qupzilla.com/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /app/loader.php [L]

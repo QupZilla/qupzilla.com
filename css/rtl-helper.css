@@ -1,0 +1,186 @@
+/* Global properties ======================================================== */
+body {
+	direction: rtl;
+}
+
+/* Global Structure ============================================================= */
+/* Left & Right alignment */
+
+.fleft { float:right;}
+.fright { float:left;}
+
+.col-1, .col-2, .col-3 { float:right;}
+
+.alignright { text-align:left;}
+
+
+/*----- other -----*/
+.img-indent {
+	margin:0 0 0 26px;
+	float:right;
+}
+
+.img-box img {
+	float:right;
+	margin:0 0 0 20px;
+}
+
+/*----- txt, links, lines, titles -----*/
+
+h3 {
+	padding:6px 60px 14px 0;
+}
+
+h3 img {
+	right:0;
+	left: auto;
+}
+
+.link1 {
+	padding:0 13px 0 0;
+}
+
+.button span {
+	right:50%;
+	left: auto;
+	margin-right:-38px;
+	margin-left: auto;
+}
+
+/*==================boxes====================*/
+.box .button {
+	left:19px;
+	right: auto;
+}
+
+.box .inner {
+	padding:0 11px 0 3px;
+}
+
+/*--- box1 ---*/
+.address {
+	float:right;
+	margin-left:25px;
+	margin-right: auto;
+}
+
+.address dd span {
+	float:right;
+}
+
+/*===== header =====*/
+header .logo {
+	right:0;
+	left: auto;
+	padding:0 55px 0 0;
+}
+
+header nav {
+	left: 20px;
+	right: auto;
+}
+
+header nav li {
+	float:right;
+	padding-right:10px;
+	padding-left:0;
+}
+	header nav li a {
+		float:right;
+	}
+
+/*===== content =====*/
+.extra-list li a {
+	padding:17px 60px 17px 0;
+}
+	.extra-list li a img {
+		right:24px;
+		left: auto;
+	}
+
+/*===== footer =====*/
+footer nav ul {
+	margin-right:-5px;
+	margin-left: auto;
+}
+	footer nav ul li a {
+		padding:0 5px 0 8px;
+	}
+
+/*----- forms -----*/
+#contacts-form input {
+	padding:3px 5px 3px 0;
+}
+#contacts-form textarea {
+	padding:3px 5px 3px 0;
+}
+
+/*==========================================*/
+
+/* screenshots.php is in English */
+.screeny {
+  direction: ltr;
+}
+
+.pindex {
+    padding-left: 10px;
+	padding-right: 0;
+}
+
+/* other */
+#tw-frame {
+	float:left;
+	margin-left: 100px;
+	margin-right: auto;
+}
+
+/* qupzila's blog feed is in English */
+#feedControl {
+	direction: ltr;
+}
+
+/* pre contains code and then is in English */
+.container_24 .wrapper pre{
+	direction: ltr;
+}
+
+/* for some languages QupZilla is has not translated, and it seems this option (and logo) have to modified per language */
+/*
+#header_description {
+	 margin-right: 90px;
+	 margin-left: auto;
+}
+*/
+
+/* contribute.php map */
+#map_contribute {
+	float:left;
+}
+
+/*********** from grid.css *************/
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12,
+.grid_13,
+.grid_14,
+.grid_15,
+.grid_16,
+.grid_17,
+.grid_18,
+.grid_19,
+.grid_20,
+.grid_21,
+.grid_22,
+.grid_23,
+.grid_24 {
+	float: right;
+}
+
