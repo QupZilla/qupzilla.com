@@ -24,8 +24,8 @@ switch ($short_lang) {
         $lang_direction = "RTL";
         break;
 
-    case "bo":
-        $lang_id = "bo_CN";
+    case "bg":
+        $lang_id = "bg_BG";
         break;
 
     case "ca":
@@ -34,10 +34,6 @@ switch ($short_lang) {
 
     case "cs":
         $lang_id = "cs_CZ";
-        break;
-
-    case "da":
-        $lang_id = "da_DK";
         break;
 
     case "de":
@@ -78,10 +74,6 @@ switch ($short_lang) {
         $lang_direction = "RTL";
         break;
 
-    case "hu":
-        $lang_id = "hu_HU";
-        break;
-
     case "id":
         $lang_id = "id_ID";
         break;
@@ -96,14 +88,6 @@ switch ($short_lang) {
 
     case "ka":
         $lang_id = "ka_GE";
-        break;
-
-    case "my":
-        $lang_id = "my_MM";
-        break;
-
-    case "nb":
-        $lang_id = "nb_NO";
         break;
 
     case "nl":
@@ -118,16 +102,17 @@ switch ($short_lang) {
         $lang_id = "pt_PT";
         break;
 
-    case "ro":
-        $lang_id = "ro_RO";
-        break;
-
     case "ru":
         $lang_id = "ru_RU";
         break;
 
     case "sk":
         $lang_id = "sk_SK";
+        break;
+
+    case "bs":
+    case "hr":
+        $lang_id = "sr_BA@latin";
         break;
 
     case "sh":
@@ -138,62 +123,12 @@ switch ($short_lang) {
         $lang_id = "sr_RS";
         break;
 
-    case "sv":
-        $lang_id = "sv_SE";
-        break;
-
-    case "uk":
-        $lang_id = "uk_UA";
-        break;
-
-        // Multiple
-    case "zh":
-        $lang_id = "zh_CN";
-        break;
-
-    case "es":
-        $lang_id = "es_ES";
-        break;
-
-    case "ru":
-        $lang_id = "ru_RU";
-        break;
-
-    case "it":
-        $lang_id = "it_IT";
-        break;
-
-    case "id":
-        $lang_id = "id_ID";
-        break;
-
-    case "fr":
-        $lang_id = "fr_FR";
-        break;
-
-    case "ka":
-        $lang_id = "ka_GE";
-        break;
-
-    case "ja":
-        $lang_id = "ja_JP";
-        break;
-
-    case "sk":
-        $lang_id = "sk_SK";
-        break;
-
     case "uk":
         $lang_id = "uk_UA";
         break;
 
     case "zh":
         $lang_id = "zh_CN";
-        break;
-
-    case "bs":
-    case "hr":
-        $lang_id = "sr_BA@latin";
         break;
 
     default:
@@ -201,6 +136,23 @@ switch ($short_lang) {
 }
 
 switch ($long_lang) {
+    case "es-419":
+        $lang_id = "es_419";
+        break;
+
+    case "es-es":
+        $lang_id = "es_ES";
+        break;
+
+    case "nqo":
+        $lang_id = "nqo";
+        $lang_direction = "RTL";
+        break;
+
+    case "pt-pt":
+        $lang_id = "pt_PT";
+        break;
+
     case "sr-ba":
     case "sr-me":
         $lang_id = "sr_BA";
@@ -217,36 +169,6 @@ switch ($long_lang) {
 
     case "zh-tw":
         $lang_id = "zh_TW";
-        break;
-
-    case "es-419":
-        $lang_id = "es_419";
-        break;
-
-    case "es-ar":
-        $lang_id = "es_AR";
-        break;
-
-    case "es-es":
-        $lang_id = "es_ES";
-        break;
-
-    case "es-ve":
-        $lang_id = "es_VE";
-        break;
-
-    case "pt-pt":
-        $lang_id = "pt_PT";
-        break;
-
-    case "pt-br":
-        $lang_id = "pt_BR";
-        break;
-
-    // ??
-    case "nqo":
-        $lang_id = "nqo";
-        $lang_direction = "RTL";
         break;
 
     default:

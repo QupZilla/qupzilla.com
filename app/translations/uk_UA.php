@@ -1,11 +1,11 @@
 <?php
 $LANG = array(
-   "site_title"               => "QupZilla - легкий багатоплатформений браузер",
+   "site_title"               => "QupZilla - легкий багатоплатформений переглядач",
    "qupzilla"                 => "QupZilla",
    "header_description"       => "Веб-переглядач",
    "menu_home"                => "Головна",
    "menu_screenshots"         => "Скріншоти",
-   "menu_download"            => "Скачати",
+   "menu_download"            => "Завантажити",
    "menu_faq"                 => "ЧаПи",
    "menu_about"               => "Співробітництво",
    "footer_site"              => "www.qupzilla.com",
