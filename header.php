@@ -31,9 +31,9 @@
 </head>
 <body>
     <?php if ($lang_direction == "RTL") { ?>
-        <a target="_blank" href="https://github.com/QupZilla/qupzilla"><img style="position: absolute; top: 0; left: 0; right: auto; border: 0;" src="images/forkme_rtl.png" alt="Fork me on GitHub"></a>
+        <a target="_blank" href="https://github.com/QupZilla/"><img style="position: absolute; top: 0; left: 0; right: auto; border: 0;" src="images/forkme_rtl.png" alt="Fork me on GitHub"></a>
     <?php } else { ?>
-        <a target="_blank" href="https://github.com/QupZilla/qupzilla"><img style="position: absolute; top: 0; left: auto; right: 0; border: 0;" src="images/forkme.png" alt="Fork me on GitHub"></a>
+        <a target="_blank" href="https://github.com/QupZilla/"><img style="position: absolute; top: 0; left: auto; right: 0; border: 0;" src="images/forkme.png" alt="Fork me on GitHub"></a>
     <?php } ?>
 
 <!-- header -->
