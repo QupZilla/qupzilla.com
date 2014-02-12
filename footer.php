@@ -66,6 +66,10 @@
         <li><a href="?lang=zh-cn">简体中文</a></li>
         <li><a href="?lang=zh-tw">繁体中文</a></li>
         </ul>
+        <ul>
+        <li><a href="?lang=ar">العربية</a></li>
+        <li><a href="?lang=nqo">ߒߞߏ</a></li>
+        </ul>
 	</nav>
       </div>
     </div>
