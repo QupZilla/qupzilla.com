@@ -2,17 +2,11 @@
 require_once('bootstrap.php');
 
 // Save download info
-$ip = getRealIP();
-$date = time();
-$referer = $_SERVER["HTTP_REFERER"];
-$user_agent = $_SERVER["HTTP_USER_AGENT"];
-
-$stm = mysqli_prepare($con, "INSERT INTO counter (url,datum,ip,prohlizec,referer) VALUES (?, ?, ?, ?, ?) ");
-mysqli_stmt_bind_param($stm, 'sssss', $query, $date, $ip, $user_agent, $referer);
+$stm = mysqli_prepare($con, "UPDATE downloads SET count=count+1, last_download=now() WHERE platform=?");
+mysqli_stmt_bind_param($stm, 's', $query);
 mysqli_stmt_execute($stm);
 
 // Redirect to download url
-
 switch ($query)
 {
     case "windows32":
