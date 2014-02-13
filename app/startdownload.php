@@ -35,23 +35,6 @@ switch ($query)
         header("Location:http://ubuntuone.com/4Ssv7OlZ4ER9KluKW2dsn4"); // amd64.tar.gz
     break;
 
-    case "suse":
-        header("Location:http://software.opensuse.org/download/package?project=KDE:Extra&amp;package=qupzilla");
-    break;
-
-    case "fedora":
-    case "mandriva":
-        header("Location:http://software.opensuse.org/download/package?project=home:nowrep&amp;package=qupzilla");
-    break;
-
-    case "arch32":
-        header("Location:http://www.archlinux.org/packages/community/i686/qupzilla/");
-    break;
-
-    case "arch64":
-        header("Location:http://www.archlinux.org/packages/community/x86_64/qupzilla/");
-    break;
-
     case "os2":
         header("Location:http://qupzilla.com/uploads/qupzilla-1.6.1-os2.7z");
     break;
