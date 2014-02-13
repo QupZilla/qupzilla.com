@@ -1,7 +1,7 @@
   <section id="content">
   <div class="container_24">
     <h2></h2>
-      <div class="rowd-1 row">
+      <div class="row-1 rowd">
         <div class="os-wrapper">
           <div class="grid_7">
             <a style="cursor:pointer" href="#windows">
