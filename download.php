@@ -1,7 +1,7 @@
   <section id="content">
   <div class="container_24">
     <h2></h2>
-      <div class="row-1 row">
+      <div class="rowd-1 row">
         <div class="os-wrapper">
           <div class="grid_7">
             <a style="cursor:pointer" href="#windows">
@@ -88,7 +88,7 @@
         </div>
       </div>
 
-      <div class="row-2 boxes">
+      <div class="rowd-2 boxes">
         <div class="down-box" id="windows">
             <p class="title">Windows</p>
             <p><?php echo $LANG["windows_text"]; ?></p>
