@@ -12,11 +12,11 @@ switch ($query)
     case "windows32":
     case "windows64":
     case "windows":
-        header("Location:http://ubuntuone.com/3LEZgDuNKWzeXjKyCdRLjS");
+        header("Location:http://ubuntuone.com/0a62mV84yZVa06HOfgrp9J");
     break;
 
     case "windows_portable":
-        header("Location:http://ubuntuone.com/4x1xLWcwUp1PUoMjsPzVam");
+        header("Location:http://ubuntuone.com/2RrV97vvIzL8CAZB5qoCPW");
     break;
 
     case "debian32":
@@ -36,7 +36,7 @@ switch ($query)
     break;
 
     case "os2":
-        header("Location:http://qupzilla.com/uploads/qupzilla-1.6.1-os2.7z");
+        header("Location:http://qupzilla.com/uploads/qupzilla-1.6.3-os2.7z");
     break;
 
     case "haiku":
@@ -52,7 +52,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:http://qupzilla.com/uploads/QupZilla-1.6.1.tar.gz");
+        header("Location:http://qupzilla.com/uploads/QupZilla-1.6.3.tar.gz");
     break;
 
     default:

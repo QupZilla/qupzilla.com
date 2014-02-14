@@ -1,7 +1,7 @@
 <?php
 // Globals
-$qupzilla_version = "1.6.2";
-$qupzilla_version_date = "13.02.2014";
+$qupzilla_version = "1.6.3";
+$qupzilla_version_date = "14.02.2014";
 
 // Functions
 function getRealIp() {
