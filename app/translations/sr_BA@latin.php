@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Donirajte",
    "donate_text"              => "Ako vam se sviđa Kapzila, možete i donirati mali iznos novca.",
    "share_with_friends"       => "Podijelite sa prijateljima!",
-   "share_with_friends_text"  => "Dopada vam se Kapzila? Podijelite je sa prijateljima!"
+   "share_with_friends_text"  => "Dopada vam se Kapzila? Podijelite je sa prijateljima!",
+   "screens_speeddial"        => "Brzo biranje",
+   "screens_library"          => "Biblioteka",
+   "screens_preferences"      => "Postavke",
+   "screens_history"          => "Istorijat",
+   "screens_thanksto"         => "zahvaljujući",
+   "screens_other"            => "Ostali",
+   "copyright_comm"           => "i Kapzila zajednica",
+   "laptop_icon"              => "Dizajn laptop ikone: „Oxygen Project“",
+   "page_trans"               => "Prevodi stranice:"
 );?>

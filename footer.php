@@ -1,8 +1,8 @@
 <!-- footer -->
   <footer>
     <div class="container_24">
-    	<nav>
-      	<ul>
+        <nav>
+        <ul>
         <li><a href="/"><?php echo $LANG["menu_home"]; ?></a>|</li>
         <li><a href="/download"><?php echo $LANG["menu_download"]; ?></a>|</li>
         <li><a href="https://github.com/QupZilla/qupzilla/wiki/FAQ" target="blank"><?php echo $LANG["menu_faq"]; ?></a>|</li>
@@ -18,8 +18,8 @@
 -->
 <!-- twitter widget -->
 
-      (c) 2010 - 2014 David Rosca and the QupZilla Community
-      <p>Laptop icon designed by the Oxygen Project</p>
+      (c) 2010 - 2014 David Rosca <?php echo $LANG["copyright_comm"]; ?>
+      <p><?php echo $LANG["laptop_icon"]; ?></p>
       <p><?php echo $LANG["translated_by"]; ?></p>
       <script type="text/javascript">var switchTo5x=true;</script>
       <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
@@ -31,10 +31,10 @@
       <span class='st_linkedin_large' st_url='http://www.qupzilla.com'></span>
       <span class='st_sharethis_large' st_url='http://www.qupzilla.com'></span>
       <p></p>
-      Available page translations:
+      <?php echo $LANG["page_trans"]; ?>
      <div class="languages">
       <nav>
-      	<ul>
+        <ul>
         <li><a href="?lang=id">Bahasa Indonesia</a></li>
         <li><a href="?lang=es">Castellano</a></li>
         <li><a href="?lang=ca">Català</a></li>
@@ -70,8 +70,8 @@
         <li><a href="?lang=ar">العربية</a></li>
         <li><a href="?lang=nqo">ߒߞߏ</a></li>
         </ul>
-	</nav>
-      </div>
+      </nav>
+     </div>
     </div>
 </footer>
 </body>
