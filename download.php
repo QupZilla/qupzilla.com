@@ -37,14 +37,14 @@
             <p class="os-text">Debian</p>
           </div>
           <div class="grid_7">
-            <a style="cursor:pointer" href="#mandriva" >
-            <img class="os-image" src="images/os/mandriva.png"></a>
-            <p class="os-text">Mandriva</p>
+            <a style="cursor:pointer" href="#mageia" >
+            <img class="os-image" src="images/os/mageia.png"></a>
+            <p class="os-text">Mageia</p>
           </div>
           <div class="grid_7">
             <a style="cursor:pointer" href="#arch" >
             <img class="os-image" src="images/os/arch.png"></a>
-            <p class="os-text">ArchLinux</p>
+            <p class="os-text">Arch Linux</p>
           </div>
           <div class="grid_7">
             <a style="cursor:pointer" href="#gentoo" >
@@ -149,14 +149,18 @@
 
         <div class="down-box" id="fedora">
             <p class="title">Fedora</p>
-            <p><?php echo $LANG["packages_text"]; ?> (.rpm) <?php echo $LANG["can_be_downloaded"]; ?></p>
-              <iframe id="fedora-iframe" width="900" height="450" src="http://software.opensuse.org/download/package.iframe?project=home:nowrep&amp;package=qupzilla"> </iframe>
+            <p><?php echo $LANG["install_run_command"]; ?></p>
+              <pre style="margin-left: 340px;">
+      yum install qupzilla
+              </pre>
         </div>
 
-        <div class="down-box" id="mandriva">
-            <p class="title">Mandriva</p>
-            <p><?php echo $LANG["packages_text"]; ?> (.rpm) <?php echo $LANG["can_be_downloaded"]; ?></p>
-              <iframe id="mandriva-iframe" width="900" height="450" src="http://software.opensuse.org/download/package.iframe?project=home:nowrep&amp;package=qupzilla"> </iframe>
+        <div class="down-box" id="mageia">
+            <p class="title">Mageia</p>
+            <p><?php echo $LANG["install_run_command"]; ?></p>
+              <pre style="margin-left: 340px;">
+      urpmi qupzilla
+              </pre>
         </div>
 
         <div class="down-box" id="freebsd">
