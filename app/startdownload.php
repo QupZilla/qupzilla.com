@@ -20,19 +20,19 @@ switch ($query)
     break;
 
     case "debian32":
-        header("Location:http://ubuntuone.com/0FdmoeepfZCLd66vv9W3To"); // i386.deb
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.6.3_i386.deb");
     break;
 
     case "debian64":
-        header("Location:http://ubuntuone.com/1N5MkdIuvNHOZ4qFNblpNV"); // amd64.deb
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.6.3_amd64.deb");
     break;
 
     case "linux32":
-        header("Location:http://ubuntuone.com/2FT8kls9nXZ6jczUVOqIul"); // i386.tar.gz
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.6.3_i386.tar.gz");
     break;
 
     case "linux64":
-        header("Location:http://ubuntuone.com/4AnjpKeSci9r0710aFO663"); // amd64.tar.gz
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.6.3_amd64.tar.gz");
     break;
 
     case "os2":
