@@ -1,5 +1,6 @@
 # Do not remove this line, otherwise mod_rewrite rules will stop working
 RewriteEngine On
+RewriteBase /
 
 # Redirect to www. version (works for all top-level domains)
 RewriteCond %{HTTP_HOST} ^qupzilla. [NC]
