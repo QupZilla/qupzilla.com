@@ -42,7 +42,7 @@
             	<h2><?php echo $LANG["devnews_header"]; ?></h2>
 
 <!-- Blogger widget -->
-<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAq3SVCR-K0yI5_N0cswX1txT0VykOMYx3Zz_NUtzmY0vQvYY8dRRumpjgNGF4yD2y0xdghBjp7upN8A"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAq3SVCR-K0yI5_N0cswX1txT0VykOMYx3Zz_NUtzmY0vQvYY8dRRumpjgNGF4yD2y0xdghBjp7upN8A" async></script>
 <script type="text/javascript">
 google.load("feeds", "1");
 function OnLoad() {
