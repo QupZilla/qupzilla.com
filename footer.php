@@ -1,6 +1,8 @@
 <!-- footer -->
   <footer>
     <div class="container_24">
+        <iframe src="http://tylerlh.github.com/github-latest-commits-widget/?username=QupZilla&repo=qupzilla&limit=5"
+        allowtransparency="true" frameborder="0" scrolling="no" id="gh-frame"></iframe>
         <nav>
         <ul>
         <li><a href="/"><?php echo $LANG["menu_home"]; ?></a>|</li>
@@ -9,15 +11,6 @@
         <li><a href="/contribute"><?php echo $LANG["menu_about"]; ?></a></li>
         </ul>
         </nav>
-<!-- twitter widget -->
-<!--
-<div id="twitter-box">
-<a class="twitter-timeline"  href="https://twitter.com/qupzilla"  data-widget-id="432965699154092032" data-chrome="transparent" data-border-color="#00000" data-tweet-limit="3">Tweets by @qupzilla</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
--->
-<!-- twitter widget -->
-
       (c) 2010 - 2014 David Rosca <?php echo $LANG["copyright_comm"]; ?>
       <p><?php echo $LANG["laptop_icon"]; ?></p>
       <p><?php echo $LANG["translated_by"]; ?></p>

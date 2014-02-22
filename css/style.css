@@ -551,23 +551,11 @@ footer .languages li a{
 footer .languages .english {
 }
 
-#tw-frame {
+#gh-frame {
 	float:right;
-	width: 430px;
-	height: 300px;
-	margin-top: -55px;
-    	margin-right: 60px;
-	margin-bottom: -20px;
+	width: 500px;
+	height: 252px;
 }
-
-#twitter-box {
-	float: right;
-	width: 430px;
- 	margin-top: -35px;
-	margin-right: 0px;
-	margin-bottom: 50px;
-}
-
 
 /*--g-- forms -----*/
 #contacts-form fieldset {
