@@ -39,23 +39,9 @@
         	<div class="grid_9">
           	<!-- .box1 -->
           	<div class="box1">
-            	<h2><?php echo $LANG["devnews_header"]; ?></h2>
-
-<!-- Blogger widget -->
-<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAq3SVCR-K0yI5_N0cswX1txT0VykOMYx3Zz_NUtzmY0vQvYY8dRRumpjgNGF4yD2y0xdghBjp7upN8A" async></script>
-<script type="text/javascript">
-google.load("feeds", "1");
-function OnLoad() {
-   var feedControl = new google.feeds.FeedControl();
-   feedControl.addFeed("http://blog.qupzilla.com/feeds/posts/default?alt=rss", "");
-   feedControl.draw(document.getElementById("feedControl"));
-}
-google.setOnLoadCallback(OnLoad);
-</script>
-<!-- Blogger widget -->
-
-<span id="feedControl"><?php echo $LANG["feed_loading"]; ?></span>
-            </div>
+                    <h2><?php echo $LANG["devnews_header"]; ?></h2>
+                    <iframe src="blogger-widget.php" style="width:330px; height:430px;margin-top:-15px;" scrolling="no"> </iframe>
+                </div>
           	<!-- /.box1 -->
           </div>
         </div>

@@ -3,17 +3,17 @@ article, aside, audio, canvas, command, datalist, details, embed, figcaption, fi
 mark, rp, rt, ruby, summary, time{ display: inline }
 
 /* Global properties ======================================================== */
-body { 
-	background:#e1e1e1; 
+body {
+	background:#e1e1e1;
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:100%; 
+	font-size:100%;
 	line-height:1.125em;
 	color:#899a9d;
 }
 html {
 	min-width:980px;
 }
-html, body { 
+html, body {
 	height:100%;
 }
 
@@ -30,7 +30,7 @@ html, body {
 		background:url(../images/header-tail.gif) 0 0 repeat-x #101010;
 		border-bottom:4px solid #ccc;
 	}
-	
+
 	/* Content */
 	#content {
 		background:#ececec;
@@ -92,7 +92,7 @@ html, body {
 .alignright { text-align:right;}
 .aligncenter { text-align:center;}
 
-.wrapper { 
+.wrapper {
 	width:100%;
 	overflow:hidden;
 }
@@ -111,7 +111,7 @@ html, body {
 
 
 /*----- form defaults -----*/
-input, select, textarea { 
+input, select, textarea {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:1em;
 	vertical-align:middle;
@@ -119,21 +119,21 @@ input, select, textarea {
 }
 
 /*----- other -----*/
-.img-indent { 
-	margin:0 26px 0 0; 
+.img-indent {
+	margin:0 26px 0 0;
 	float:left;
 }
-.img-box { 
-	width:100%; 
-	overflow:hidden; 
+.img-box {
+	width:100%;
+	overflow:hidden;
 	padding-bottom:30px;
 }
-	.img-box img { 
-		float:left; 
+	.img-box img {
+		float:left;
 		margin:0 20px 0 0;
 	}
 
-.extra-wrap { 
+.extra-wrap {
 	overflow:hidden;
 }
 
@@ -146,7 +146,7 @@ p {margin-bottom:18px;}
 
 /*----- txt, links, lines, titles -----*/
 a {
-	color:#37add6; 
+	color:#37add6;
 	outline:none;
 }
 a:hover{
@@ -202,7 +202,7 @@ h6 {
 	font-size:.91em;
 }
 
-.link1 { 
+.link1 {
 	background:url(../images/bull-1.gif) no-repeat 0 7px;
 	padding:0 0 0 13px;
 	font-size:16px;
@@ -215,9 +215,9 @@ h6 {
 	line-height:20px;
 	font-style:italic;
 }
-	
 
-.button { 
+
+.button {
 	display:inline-block;
 	position:absolute;
 	font-size:11px;
@@ -250,7 +250,7 @@ h6 {
 	text-shadow:0 0 5px #fff;
 }
 
-.separator { 
+.separator {
 	background:url(../images/separator.gif) 0 0 repeat-x;
 	height:3px;
 	overflow:hidden;
@@ -279,7 +279,7 @@ h6 {
 		right:19px;
 		bottom:-19px;
 	}
-	
+
 .box.color1 {
 	background-color:#95b603;
 	color:#dbe7a8;
@@ -299,7 +299,7 @@ h6 {
 	}
 	.box.color2 .button {
 		background-color:#61baf4;
-	}	
+	}
 .box.color3 {
 	background-color:#eb3d25;
 	color:#f7c1ba;
@@ -309,7 +309,7 @@ h6 {
 	}
 	.box.color3 .button {
 		background-color:#f7543d;
-	}	
+	}
 .box.color4 {
 	background-color:#60124b;
 	color:#e8a4d5;
@@ -320,7 +320,7 @@ h6 {
 	.box.color4 .button {
 		background-color:#79185f;
 	}
-	.box .inner { 
+	.box .inner {
 		padding:0 3px 0 11px;
 	}
 
@@ -339,7 +339,7 @@ h6 {
 	}
 
 
-.address { 
+.address {
 	float:left;
 	margin-right:25px;
 }
@@ -347,10 +347,10 @@ h6 {
 		margin-bottom:18px;
 	}
 	.address dt:first-line {color:#000; font-weight:bold;}
-	.address dd { 
+	.address dd {
 		clear:both;
 	}
-		.address dd span { 
+		.address dd span {
 			float:left;
 			width:80px;
 		}
@@ -426,7 +426,7 @@ header nav {
 	padding-bottom:20px;
 	margin-bottom:20px;
 }
-	
+
 	.extra-list {
 		padding-bottom:18px;
 	}
@@ -454,7 +454,7 @@ header nav {
 				left:24px;
 				top:14px;
 			}
-	
+
 	.list1 {
 		margin-bottom:1em;
 	}
@@ -531,7 +531,7 @@ footer a {
 footer a:hover {
 	text-decoration:underline;
 }
-	
+
 footer span {
 	color:#000;
 }
@@ -550,7 +550,7 @@ footer .languages li a{
 }
 footer .languages .english {
 }
-	
+
 #tw-frame {
 	float:right;
 	width: 430px;
@@ -630,11 +630,6 @@ footer .languages .english {
     padding: 10px;
 }
 
-/* Google Reader */
-.gfc-control { margin-top: -10px; }
-.gf-author { display: none !important;}
-.gf-spacer { display: none !important;}
-
 /*========== Download =======*/
 .os-text{
   padding-top: 10px;
@@ -650,7 +645,7 @@ footer .languages .english {
   font-weight: bold;
 }
 
-.os-wrapper { 
+.os-wrapper {
 	width:850px;
 	overflow:hidden;
     margin: 0 auto;
