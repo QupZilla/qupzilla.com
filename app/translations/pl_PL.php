@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "FAQ",
    "menu_about"               => "Wesprzyj",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "Aktualna Wersja",
    "actual_version_text"      => "Aktualna wersja QupZilli jest z $qupzilla_version_date i jest to $qupzilla_version. <br/>Nie wahaj się i <a href=\"download\">pobierz</a>  już teraz!",
    "actual_version_button"    => "POBIERZ",
@@ -65,5 +65,14 @@ Możesz także dołączyć do kanału IRC<b> #qupzilla</b> w sieci irc.freenode.
    "donate"                   => "Dotacje",
    "donate_text"              => "Jeśli lubisz QupZille, możesz wesprzeć nasz projekt ofiarując nam pomoc finansową.",
    "share_with_friends"       => "Podziel się ze znajomymi!",
-   "share_with_friends_text"  => "Lubisz QupZille ? W takim razie pokaz ja znajomym !"
+   "share_with_friends_text"  => "Lubisz QupZille ? W takim razie pokaz ja znajomym !",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "Library",
+   "screens_preferences"      => "Preferences",
+   "screens_history"          => "History",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "Other",
+   "copyright_comm"           => "and the QupZilla Community",
+   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "page_trans"               => "Available page translations:"
 );?>

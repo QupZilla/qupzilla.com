@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "SEG",
    "menu_about"               => "Egin Ekarpena",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "Oraingo bertsioa",
    "actual_version_text"      => "Oraingo bertsioa $qupzilla_version_date-koa da $qupzilla_version bertsioa da. Aldaketak aldaketa-oharrean. <br/>Ez izan zalantzarik eta <a href=\"download\">jeitsi</a> orain!",
    "actual_version_button"    => "JEITSI",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Dirulaguntza",
    "donate_text"              => "QupZilla gogoko baduzu, diru laguntza txiki bat eman dezakezu.",
    "share_with_friends"       => "Elkarbanatu Lagunekin!",
-   "share_with_friends_text"  => "QupZilla gogoko duzu? Orduan elkarbanatu zure lagun artean!"
+   "share_with_friends_text"  => "QupZilla gogoko duzu? Orduan elkarbanatu zure lagun artean!",
+   "screens_speeddial"        => "Abiarazpen Azkarra",
+   "screens_library"          => "Liburutegia",
+   "screens_preferences"      => "Hobespenak",
+   "screens_history"          => "Historia",
+   "screens_thanksto"         => "eskerrak",
+   "screens_other"            => "Besteak",
+   "copyright_comm"           => "eta QupZilla Herkidegoa",
+   "laptop_icon"              => "Eramangarri ikurra Oxygen Egitasmoak diseinatua",
+   "page_trans"               => "Orrialde itzulpen eskuragarriak: "
 );?>

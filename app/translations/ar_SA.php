@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "الأسئلة الشائعة",
    "menu_about"               => "ساهم",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "النسخة الحالية",
    "actual_version_text"      => "أحدث نسخة صدرت يوم $qupzilla_version_date ورقمها $qupzilla_version. التغييرات ضمن سجل التغييرات.<br>لا تتردّد! <a href='download'>نزّلها!</a> الآن!",
    "actual_version_button"    => "نزّل كَبزيلّا",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "تبرّع",
    "donate_text"              => "إن كنت تحبّ كَبزيلّا، بإمكانك أيضًا التبرّع بمقدار صغير من المال.",
    "share_with_friends"       => "شاركه مع أصدقائك!",
-   "share_with_friends_text"  => "أتحب كَبزيلّا؟ لم لا تشاركه مع أصدقائك؟"
+   "share_with_friends_text"  => "أتحب كَبزيلّا؟ لم لا تشاركه مع أصدقائك؟",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "Library",
+   "screens_preferences"      => "Preferences",
+   "screens_history"          => "History",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "Other",
+   "copyright_comm"           => "and the QupZilla Community",
+   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "page_trans"               => "Available page translations:"
 );?>

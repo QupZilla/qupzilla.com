@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "常見問答",
    "menu_about"               => "貢獻人員",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "當前版本",
    "actual_version_text"      => "當前版本是來自 $qupzilla_version_date 且它的版本為 $qupzilla_version。 在更新日誌(changelog)裡檢視更新內容 <br/>不要再猶豫了!現在就<a href=\"download\">下載</a>吧!",
    "actual_version_button"    => "下載",
@@ -61,5 +61,14 @@ $LANG = array(
    "donate"                   => "捐助",
    "donate_text"              => "喜歡QupZilla的話，你也可以用少許的金額支持我們。",
    "share_with_friends"       => "和您的朋友分享！",
-   "share_with_friends_text"  => "喜歡QupZilla？那就跟你的朋友分享它吧！"
+   "share_with_friends_text"  => "喜歡QupZilla？那就跟你的朋友分享它吧！",
+   "screens_speeddial"        => "快速撥號",
+   "screens_library"          => "收藏庫",
+   "screens_preferences"      => "偏好設定",
+   "screens_history"          => "歷史",
+   "screens_thanksto"         => "感謝",
+   "screens_other"            => "其他",
+   "copyright_comm"           => "以及 Qupzilla 社群",
+   "laptop_icon"              => "筆記型電腦圖示由 Oxygen 專案設計",
+   "page_trans"               => "可用的頁面翻譯："
 );?>

@@ -62,6 +62,7 @@
         <ul>
         <li><a href="?lang=ar">العربية</a></li>
         <li><a href="?lang=nqo">ߒߞߏ</a></li>
+        <li><a href="?lang=lv">Latviešu valoda</a></li>
         </ul>
       </nav>
      </div>

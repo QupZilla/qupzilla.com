@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "پرسش‌های متداول",
    "menu_about"               => "همکاری",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "نسخه فعلی",
    "actual_version_text"      => "نسخه فعلی به تاریخ $qupzilla_version_date نسخه $qupzilla_version است. تغییرات در گزارش‌تغییرات موجود است. <br/>همکنون بی‌درنگ  آن را <a href=\"download\">دریافت</a> کنید!",
    "actual_version_button"    => "دریافت",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Donate",
    "donate_text"              => "اگر از کوپزیلا خوشتان می‌آید، می‌توانید مقدار کمی پول را هدیه کنید.",
    "share_with_friends"       => "اشتراک‌گذاری با دوستان!",
-   "share_with_friends_text"  => "آیا از کوپزیلا خوشتان آمده است؟ در این صورت آن را دربین دوستان‌تان به اشتراک بگذارید!"
+   "share_with_friends_text"  => "آیا از کوپزیلا خوشتان آمده است؟ در این صورت آن را دربین دوستان‌تان به اشتراک بگذارید!",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "Library",
+   "screens_preferences"      => "Preferences",
+   "screens_history"          => "History",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "Other",
+   "copyright_comm"           => "and the QupZilla Community",
+   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "page_trans"               => "Available page translations:"
 );?>

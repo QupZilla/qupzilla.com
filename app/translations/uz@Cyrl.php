@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "FAQ",
    "menu_about"               => "Ҳиссани қўшиш",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "Жорий версия",
    "actual_version_text"      => "Жорий версия бу $qupzilla_version $qupzilla_version_date'дан. Ўзгартиришлар журналда акс эттирилган. <br/>Иккиланмай хозир уни <a href=\"download\">юклаб олинг</a>!",
    "actual_version_button"    => "ЮКЛАБ ОЛИШ",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Эҳсон қилиш",
    "donate_text"              => "Сизга QupZilla ёққан бўлса, сиз оз миқдорда бўлса ҳам пул эҳсон қилишингиз мумкин.",
    "share_with_friends"       => "Дўстлар билан бўлишинг!",
-   "share_with_friends_text"  => "QupZilla сизга ёқдими? Унда уни дўстлар билан бўлишинг!"
+   "share_with_friends_text"  => "QupZilla сизга ёқдими? Унда уни дўстлар билан бўлишинг!",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "Library",
+   "screens_preferences"      => "Preferences",
+   "screens_history"          => "History",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "Other",
+   "copyright_comm"           => "and the QupZilla Community",
+   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "page_trans"               => "Available page translations:"
 );?>

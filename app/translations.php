@@ -90,6 +90,10 @@ switch ($short_lang) {
         $lang_id = "ka_GE";
         break;
 
+    case "lv":
+        $lang_id = "lv_LV";
+        break;
+
     case "nl":
         $lang_id = "nl_NL";
         break;
@@ -142,6 +146,10 @@ switch ($long_lang) {
 
     case "es-es":
         $lang_id = "es_ES";
+        break;
+
+    case "es-mx":
+        $lang_id = "es_MX";
         break;
 
     case "nqo":

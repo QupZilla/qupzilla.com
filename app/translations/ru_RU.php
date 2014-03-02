@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "FAQ",
    "menu_about"               => "Сотрудничество",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "Текущая версия",
    "actual_version_text"      => "Текущая версия от $qupzilla_version_date и это версия $qupzilla_version. Узнать об изменениях можно в разделе \"журнал изменений\". <br/>Не стесняйтесь, <a href=\"download\">скачайте</a> прямо сейчас!",
    "actual_version_button"    => "Скачать",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Пожертвование",
    "donate_text"              => "Вы можете пожертвовать небольшую сумму на развитие QupZilla.",
    "share_with_friends"       => "Поделиться с друзьями!",
-   "share_with_friends_text"  => "Вам нравится браузер QupZilla? Так посоветуйте его своим друзьям!"
+   "share_with_friends_text"  => "Вам нравится браузер QupZilla? Так посоветуйте его своим друзьям!",
+   "screens_speeddial"        => "Быстрый доступ",
+   "screens_library"          => "Библиотека",
+   "screens_preferences"      => "Настройки",
+   "screens_history"          => "История",
+   "screens_thanksto"         => "благодаря",
+   "screens_other"            => "Другие",
+   "copyright_comm"           => "и сообщество QupZilla",
+   "laptop_icon"              => "Дизайн ноутбука разработан Oxygen Project",
+   "page_trans"               => "Язык страницы:"
 );?>

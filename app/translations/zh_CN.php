@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "常见问题解答",
    "menu_about"               => "助力 QupZilla",
    "footer_site"              => "www.QupZilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "当前版本",
    "actual_version_text"      => "当前版本为{$qupzilla_version}，于{$qupzilla_version_date}（日.月.年）发布，参见<A HRef=\"https://github.com/QupZilla/qupzilla/blob/master/CHANGELOG\">更新日志</A>。<BR />不要犹豫，赶快<A HRef=\"download\">下载</A>吧！",
    "actual_version_button"    => "下载",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "捐助",
    "donate_text"              => "如果你喜爱 QupZilla，可以捐一点钱给我们。",
    "share_with_friends"       => "与朋友共享！",
-   "share_with_friends_text"  => "喜欢 QupZilla 吗？喜欢就和你的朋友共享吧！<BR />通过最右侧的按钮打开的弹窗中的“More”按钮，你可以将 QupZilla 分享到百度（Baidu）、新浪微博（Sina）等国内常见的平台（暂不支持人人网和 QQ）。"
+   "share_with_friends_text"  => "喜欢 QupZilla 吗？喜欢就和你的朋友共享吧！<BR />通过最右侧的按钮打开的弹窗中的“More”按钮，你可以将 QupZilla 分享到百度（Baidu）、新浪微博（Sina）等国内常见的平台（暂不支持人人网和 QQ）。",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "Library",
+   "screens_preferences"      => "Preferences",
+   "screens_history"          => "History",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "Other",
+   "copyright_comm"           => "and the QupZilla Community",
+   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "page_trans"               => "Available page translations:"
 );?>

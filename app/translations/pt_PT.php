@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "FAQ",
    "menu_about"               => "Participar",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "Versão atual",
    "actual_version_text"      => "A versão atual data de $qupzilla_version_date e é a versão $qupzilla_version. As novidades estão no registo de alterações.<br/>Não perca tempo e <a href=\"download\">transfira</a> já!",
    "actual_version_button"    => "Transferir",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Donativos",
    "donate_text"              => "Se gosta do Qupzilla, também pode fazer um donativo.",
    "share_with_friends"       => "Partilhar com os amigos!",
-   "share_with_friends_text"  => "Gosta do QupZilla? Então partilhe-o com os seus amigos!"
+   "share_with_friends_text"  => "Gosta do QupZilla? Então partilhe-o com os seus amigos!",
+   "screens_speeddial"        => "Ligação rápida",
+   "screens_library"          => "Biblioteca",
+   "screens_preferences"      => "Preferências",
+   "screens_history"          => "Histórico",
+   "screens_thanksto"         => "agradecimentos a",
+   "screens_other"            => "Outras",
+   "copyright_comm"           => "e a comunidade Qupzilla",
+   "laptop_icon"              => "Ícone criado pela equipa do projeto Oxygen",
+   "page_trans"               => "Traduções disponíveis: "
 );?>

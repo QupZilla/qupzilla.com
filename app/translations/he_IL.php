@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "שו״ת",
    "menu_about"               => "תרומות",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "גרסא נוכחית",
    "actual_version_text"      => "גרסא נוכחית הינה מיום $qupzilla_version_date וזוהי גרסא $qupzilla_version. שינויים בתוך יומן שינויים. <br/>אל תהסס <a href=\"download\">והורד</a> אותה עכשיו!",
    "actual_version_button"    => "הורד",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "תרומות",
    "donate_text"              => "אם QupZilla מוצא חן בעיניך, ביכולתך גם לתרום סכום קטן של כסף.",
    "share_with_friends"       => "שתף עם חברים!",
-   "share_with_friends_text"  => "האם QupZilla מוצא חן בעיניך? אז שתף אותו בקרב חבריך!"
+   "share_with_friends_text"  => "האם QupZilla מוצא חן בעיניך? אז שתף אותו בקרב חבריך!",
+   "screens_speeddial"        => "חיוג מהיר",
+   "screens_library"          => "ספרייה",
+   "screens_preferences"      => "העדפות",
+   "screens_history"          => "היסטוריה",
+   "screens_thanksto"         => "תודות לכבוד",
+   "screens_other"            => "אחרים",
+   "copyright_comm"           => "וקהילת QupZilla",
+   "laptop_icon"              => "צלמית מחשב נייד עוצבה על ידי הפרויקט ",
+   "page_trans"               => "תרגומי עמוד זמינים:"
 );?>

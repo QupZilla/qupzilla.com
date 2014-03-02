@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "ߢߌ߬ߣߌ߲߬ߞߊ߬ߟߌ߬ ߥߙߍ߬ ߞߍߣߍ߲",
    "menu_about"               => "ߘߍ߬ߡߍ߲߬ߠߌ߬ߠߊ",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "ߛߋ߲߬ߠߊ߬ ߓߐߞߏ",
    "actual_version_text"      => "ߛߋ߲߬ߠߊ߬ ߓߐߞߏ ߝߙߊߣߍ߲߫ $ߞߎߖ߭ߌߟߊ_ߓߐߞߏ_ߕߎ߬ߡߊ߬ߘߊ ߠߋ߬ ߟߊ߫ ߊ߬ ߣߌ߫ $ߞߎߖ߭ߌߟߊ_ߓߐߞߏ. ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ ߠߎ߬ ߦߋ߫ ߡߊ߬ߦߟߍ߬ߡߊ߲߬ߠߌ߬ ߘߊ ߟߋ߬ ߘߐ߫. <br/>ߌ ߞߊ߫ ߛߌߞߊ߫<a href=\"download\">ߊ߬ ߟߊߖߌ߱</a>ߘߐ߫ ߛߌߛߍ߲߬ ߘߋ߬߹",
    "actual_version_button"    => "ߟߊ߬ߖߌ߰ߟߌ",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "ߛߐߟߌ",
    "donate_text"              => "ߣߌ߫ ߞߎߖ߭ߌߟߊ ߞߊ߫ ߘߴߌ ߢߍ߫ ߌ ߘߌ߫ ߛߋ߫ ߜߍߣߌ߲ ߘߏ߲߬ ߠߴߊ߬ ߞߏ߫ ߘߟߊ߫.",
    "share_with_friends"       => "ߊ߬ ߟߊߘߴߌ ߘߍ߬ߢߐ߲߮ ߠߎ߫ ߡߊ߬߹",
-   "share_with_friends_text"  => "ߞߎߖ߭ߌߟߊ ߞߊ߫ ߘߴߌ ߢߍ߫ ߓߊ߬؟ ߒ߬ߓߵߊ߬ ߟߊߘߴߌ ߕߋߙߎ ߟߎ߫ ߡߊ߬߹"
+   "share_with_friends_text"  => "ߞߎߖ߭ߌߟߊ ߞߊ߫ ߘߴߌ ߢߍ߫ ߓߊ߬؟ ߒ߬ߓߵߊ߬ ߟߊߘߴߌ ߕߋߙߎ ߟߎ߫ ߡߊ߬߹",
+   "screens_speeddial"        => "ߞߟߌߟߌ߫ ߞߊߟߌ߲",
+   "screens_library"          => "ߟߐ߲ߕߊߓߏ߲",
+   "screens_preferences"      => "ߢߣߊߕߊ ߟߎ߬",
+   "screens_history"          => "ߞߊ߬ߞߘߐ",
+   "screens_thanksto"         => "ߊߟߎ߫ ߣߌ߫ ߗߋ߫ ߘߏ߲߯߹",
+   "screens_other"            => "ߜߘߍ߫",
+   "copyright_comm"           => "ߊ߬ ߣߌ߫ ߞߎߖ߭ߌߟߊ ߘߍ߬ߘߊ",
+   "laptop_icon"              => "ߓߟߏߟߊ߫ ߕߟߋߓߊ ߕߐ߯ߡߊߦߋߙߋ߲ ߡߍ߲ ߠߎ߬ ߞߍߣߍ߲߫ ߛߏ߲ߛߎ߲ ߘߊߞߎ߲ ߓߟߏ߫",
+   "page_trans"               => "ߞߐߜߍ߫ ߘߟߊߡߌ߬ߣߊ߬ߣߍ߲ ߠߎ߬:"
 );?>

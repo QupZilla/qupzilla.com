@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "ЧаПи",
    "menu_about"               => "Співробітництво",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "Поточна версія",
    "actual_version_text"      => "Поточна версія від $qupzilla_version_date Це версія $qupzilla_version. Дізнатись про зміни можна в розділі \"журнал змін\". <br/>Не вагайтесь і <a href=\"download\">завантажуйте</a> зараз!",
    "actual_version_button"    => "Завантажити",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "Пожертвувати",
    "donate_text"              => "Якщо Вам подобається QupZilla, Ви можете пожертвувати трохи грошенят.",
    "share_with_friends"       => "Поділись із друзями!",
-   "share_with_friends_text"  => "Вам подобається QupZilla? Тоді поширюйте її серед друзів!"
+   "share_with_friends_text"  => "Вам подобається QupZilla? Тоді поширюйте її серед друзів!",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "Library",
+   "screens_preferences"      => "Preferences",
+   "screens_history"          => "History",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "Other",
+   "copyright_comm"           => "and the QupZilla Community",
+   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "page_trans"               => "Available page translations:"
 );?>

@@ -9,7 +9,7 @@ $LANG = array(
    "menu_faq"                 => "FAQ",
    "menu_about"               => "開発に貢献",
    "footer_site"              => "www.qupzilla.com",
-   "translated_by"            => "",
+   "translated_by"            => " ",
    "actual_version"           => "最新版",
    "actual_version_text"      => "最新版の更新が行われたのは $qupzilla_version_date .  、最新のバージョンは . $qupzilla_version . です。変更点については更新履歴を参照してください。<br/>いますぐ<a href=\"download\">こちら</a>からダウンロード！",
    "actual_version_button"    => "DOWNLOAD",
@@ -60,5 +60,14 @@ $LANG = array(
    "donate"                   => "寄付",
    "donate_text"              => "もしQupZillaを気にいってくれたなら、少額の寄付を受け付けています。",
    "share_with_friends"       => "友達とシェアする！",
-   "share_with_friends_text"  => "QupZillaを気に入っていただけましたか？ ぜひお友達とシェアしてください！"
+   "share_with_friends_text"  => "QupZillaを気に入っていただけましたか？ ぜひお友達とシェアしてください！",
+   "screens_speeddial"        => "Speed Dial",
+   "screens_library"          => "ライブラリ",
+   "screens_preferences"      => "設定",
+   "screens_history"          => "履歴",
+   "screens_thanksto"         => "thanks to",
+   "screens_other"            => "その他",
+   "copyright_comm"           => "そして、QupZilla コミュニティ",
+   "laptop_icon"              => "ラップトップアイコンはOxygen Projectのデザインによるものです",
+   "page_trans"               => "使用可能な言語:"
 );?>
