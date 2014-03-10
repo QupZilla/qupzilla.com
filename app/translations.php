@@ -116,15 +116,15 @@ switch ($short_lang) {
 
     case "bs":
     case "hr":
-        $lang_id = "sr_BA@latin";
+        $lang_id = "sr@ijekavianlatin";
         break;
 
     case "sh":
-        $lang_id = "sr_RS@latin";
+        $lang_id = "sr@latin";
         break;
 
     case "sr":
-        $lang_id = "sr_RS";
+        $lang_id = "sr";
         break;
 
     case "uk":
@@ -163,12 +163,12 @@ switch ($long_lang) {
 
     case "sr-ba":
     case "sr-me":
-        $lang_id = "sr_BA";
+        $lang_id = "sr@ijekavian";
         break;
 
     case "sh-ba":
     case "sh-me":
-        $lang_id = "sr_BA@latin";
+        $lang_id = "sr@ijekavianlatin";
         break;
 
     case "zh-cn":
