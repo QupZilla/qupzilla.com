@@ -1,3 +1,6 @@
+<?php
+require_once('app/bootstrap.php');
+?>
 <html>
 <head>
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
