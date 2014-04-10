@@ -59,10 +59,10 @@
 
     <tr><td colspan=4><h2><?php echo $LANG["screens_other"]; ?></h2></td></tr>
     <tr><td>
-      <a title="<?php echo $LANG["qupzilla"]; ?>: OS/2 (<?php echo $LANG["thanks_to"]; ?> Elbert Pol)" href="screens/other_os2.png" rel="lightbox[screens]">
+      <a title="<?php echo $LANG["qupzilla"]; ?>: OS/2 (<?php echo $LANG["screens_thanksto"]; ?> Elbert Pol)" href="screens/other_os2.png" rel="lightbox[screens]">
       <img width="200" height="200" src="screens/thumbs/other_os2.png"></a>
       </td>
-      <td><a title="<?php echo $LANG["qupzilla"]; ?>: Haiku (<?php echo $LANG["thanks_to"]; ?> Khaled Berraoui)" href="screens/other_haiku.png" rel="lightbox[screens]">
+      <td><a title="<?php echo $LANG["qupzilla"]; ?>: Haiku (<?php echo $LANG["screens_thanksto"]; ?> Khaled Berraoui)" href="screens/other_haiku.png" rel="lightbox[screens]">
       <img width="200" height="200" src="screens/thumbs/other_haiku.png"></a></td>
       <td></td>
       <td></td>
