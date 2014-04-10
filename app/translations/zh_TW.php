@@ -11,7 +11,7 @@ $LANG = array(
    "footer_site"              => "www.qupzilla.com",
    "translated_by"            => " ",
    "actual_version"           => "當前版本",
-   "actual_version_text"      => "當前版本是來自 $qupzilla_version_date 且它的版本為 $qupzilla_version。 在更新日誌(changelog)裡檢視更新內容 <br/>不要再猶豫了!現在就<a href=\"download\">下載</a>吧!",
+   "actual_version_text"      => "當前版本是來自 $qupzilla_version_date 且它的版本為 $qupzilla_version 。 在更新日誌(changelog)裡檢視更新內容 <br/>不要再猶豫了!現在就<a href=\"download\">下載</a>吧!",
    "actual_version_button"    => "下載",
    "older_versions"           => "更新記錄",
    "older_versions_text"      => "想知道這次的版本又有什麼變動嗎？ <br/>你可以在Github的 <a>更新日誌(changelog)</a> 上查看！",

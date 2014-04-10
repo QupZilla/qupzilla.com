@@ -72,6 +72,10 @@ switch ($short_lang) {
         $lang_id = "fr_FR";
         break;
 
+    case "fi":
+        $lang_id = "fi_FI";
+        break;
+
     case "gl":
         $lang_id = "gl_ES";
         break;
@@ -79,6 +83,10 @@ switch ($short_lang) {
     case "he":
         $lang_id = "he_IL";
         $lang_direction = "RTL";
+        break;
+
+    case "hr":
+        $lang_id = "hr_HR";
         break;
 
     case "id":
@@ -122,7 +130,6 @@ switch ($short_lang) {
         break;
 
     case "bs":
-    case "hr":
         $lang_id = "sr@ijekavianlatin";
         break;
 

@@ -66,13 +66,13 @@ Możesz także dołączyć do kanału IRC<b> #qupzilla</b> w sieci irc.freenode.
    "donate_text"              => "Jeśli lubisz QupZille, możesz wesprzeć nasz projekt ofiarując nam pomoc finansową.",
    "share_with_friends"       => "Podziel się ze znajomymi!",
    "share_with_friends_text"  => "Lubisz QupZille ? W takim razie pokaz ja znajomym !",
-   "screens_speeddial"        => "Speed Dial",
-   "screens_library"          => "Library",
-   "screens_preferences"      => "Preferences",
-   "screens_history"          => "History",
-   "screens_thanksto"         => "thanks to",
-   "screens_other"            => "Other",
-   "copyright_comm"           => "and the QupZilla Community",
-   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
-   "page_trans"               => "Available page translations:"
+   "screens_speeddial"        => "Szybkie Wybieranie",
+   "screens_library"          => "Biblioteka",
+   "screens_preferences"      => "Ustawienia",
+   "screens_history"          => "Historia",
+   "screens_thanksto"         => "Podziękowania dla",
+   "screens_other"            => "Inne",
+   "copyright_comm"           => "i społeczności QupZilli",
+   "laptop_icon"              => "Ikona laptopu zaprojektowana przez Oxygen Project",
+   "page_trans"               => "Dostępne tłumaczenia strony:"
 );?>
