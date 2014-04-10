@@ -1,0 +1,8 @@
+[main]
+host = https://www.transifex.com
+
+[qupzilla.homepage]
+file_filter = app/translations/<lang>.php
+source_lang = en
+minimum_perc = 60
+
