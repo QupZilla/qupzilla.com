@@ -1,3 +1,4 @@
 certs/
 uploads/
 app/database.php
+.tx
