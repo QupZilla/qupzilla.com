@@ -42,10 +42,6 @@ case ('checkupdate'):
     require_once('checkupdate.php');
     break;
 
-case ('showcounter'):
-    require_once('downcounter.php');
-    break;
-
 default:
     $current_page = "home";
     require_once('../header.php');
