@@ -3,6 +3,9 @@ require_once('bootstrap.php');
 
 echo "Version:" . $qupzilla_version;
 
+if (!isset($_GET["v"]))
+    exit;
+
 // Save user's QupZilla version
 $ip = getRealIP();
 $version = $_GET["v"];
