@@ -12,11 +12,11 @@ switch ($query)
     case "windows32":
     case "windows64":
     case "windows":
-        header("Location:http://qupzilla.com/uploads/qupzilla164.exe");
+        header("Location:http://qupzilla.com/uploads/qupzilla165.exe");
     break;
 
     case "windows_portable":
-        header("Location:http://qupzilla.com/uploads/qupzilla164_portable.zip");
+        header("Location:http://qupzilla.com/uploads/qupzilla165_portable.zip");
     break;
 
     case "debian32":
@@ -52,7 +52,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:http://qupzilla.com/uploads/QupZilla-1.6.4.tar.gz");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v1.6.5");
     break;
 
     default:
