@@ -131,6 +131,10 @@
               <pre style="margin-left: 340px;">
       pacman -S qupzilla
               </pre>
+            <p><?php echo $LANG["install_qt5_run_command"]; ?></p>
+              <pre style="margin-left: 340px;">
+      pacman -S qupzilla-qt5-git
+              </pre>
         </div>
 
         <div class="down-box" id="chakra">
