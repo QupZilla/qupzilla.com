@@ -69,6 +69,6 @@ $LANG = array(
    "screens_thanksto"         => "Remerciements",
    "screens_other"            => "Autre",
    "copyright_comm"           => "Ainsi que la communauté QupZilla",
-   "laptop_icon"              => "Laptop icon designed by the Oxygen Project",
+   "laptop_icon"              => "Icônes designées par le projet Oxygen ",
    "page_trans"               => "Traductions de pages disponibles :"
 );?>

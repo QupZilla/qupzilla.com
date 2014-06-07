@@ -73,6 +73,6 @@ Możesz także dołączyć do kanału IRC<b> #qupzilla</b> w sieci irc.freenode.
    "screens_thanksto"         => "Podziękowania dla",
    "screens_other"            => "Inne",
    "copyright_comm"           => "i społeczności QupZilli",
-   "laptop_icon"              => "Ikona laptopu zaprojektowana przez Oxygen Project",
+   "laptop_icon"              => "Ikona laptopa zaprojektowana przez Oxygen Project",
    "page_trans"               => "Dostępne tłumaczenia strony:"
 );?>
