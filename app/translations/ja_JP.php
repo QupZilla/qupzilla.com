@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32bitおよび64bitのWindows向けインストーラーは以下のリンクからダウンロードできます",
    "ubuntu_text"              => "Ubuntu Precise, Oneiric、NattyそしてMaverickのユーザーは以下のコマンドをお使い下さい",
    "install_run_command"      => "このコマンドを実行することでQupZillaがインストールできます",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "開発版:",
    "packages_text"            => "32bit, 64bit向けパッケージ",
    "tarballs_text"            => "32bit, 64bit向けコンパイル用 tarballs",

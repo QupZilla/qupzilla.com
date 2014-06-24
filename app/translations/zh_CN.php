@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "点击下列链接下载用于32位、64位 Windows 的安装程序",
    "ubuntu_text"              => "Ubuntu Precise、Oneiric、Natty 和 Maverick（10.10~12.04）用户请采用如下命令安装 QupZilla。",
    "install_run_command"      => "要安装 QupZilla，请执行如下命令。",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "开发版：",
    "packages_text"            => "32位和64位包",
    "tarballs_text"            => "32位和64位预编译 TAr 包",

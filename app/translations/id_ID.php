@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "Windows instalatur 32bit dan 64bit dapat diunduh dengan mengklik tautan berikut",
    "ubuntu_text"              => "Pengguna Ubuntu Precise, Oneiric, Natty dan Maverick dapat memasang QupZilla dengan menjalankan perintah berikut",
    "install_run_command"      => "Anda dapat memasang QupZilla dengan menjalankan perintah ini",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "untuk versi pengembangan:",
    "packages_text"            => "Paket 32bit dan 64bit",
    "tarballs_text"            => "Bundel prakompilasi 32bit dan 64bit",

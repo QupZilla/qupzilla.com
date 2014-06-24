@@ -39,6 +39,7 @@ Con il lettore di fonti integrato, puoi rimanere aggiornato sui tuoi siti prefer
    "windows_text"             => "I pacchetti a 32bit e 64bit per Windows possono essere scaricati cliccando sui link sottostanti",
    "ubuntu_text"              => "Gli utenti di Ubuntu Precise, Oneiric, Natty e Maverick possono installare QupZilla eseguendo questi comandi",
    "install_run_command"      => "Puoi installare QupZilla tramite questo comando",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "per la versione in sviluppo: ",
    "packages_text"            => "pacchetti a 32bit e 64bit",
    "tarballs_text"            => "Archivi precompilati a 32bit e 64bit",

@@ -41,6 +41,7 @@ Dzięki wbudowanemu czytnikowi RSS, można pozostać na bieżąco z ulubionymi s
    "windows_text"             => "32bit i 64bit instalator dla systemu Windows można pobrać klikając na linki poniżej",
    "ubuntu_text"              => "Użytkownicy Ubuntu Precise, Oneric, Natty i Maverick mogą zainstalować QupZille wykonując komendy",
    "install_run_command"      => "Możesz zainstalować QupZille wykonując te komendy",
+   "install_qt4_run_command"  => "Możesz zainstalować przeglądarkę QupZilla na bibliotece Qt4 wykonując następujące polecenie",
    "for_development_version"  => "wersja deweloperska:",
    "packages_text"            => "32 i 64 bitowe paczki",
    "tarballs_text"            => "32 oraz 64 bitowe prekompilowane archiwa tar",

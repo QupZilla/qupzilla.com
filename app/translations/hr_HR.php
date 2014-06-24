@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32-bitni i 64-bitni Windows instalcijski programi mogu se preuzeti klikom na poveznice ispod",
    "ubuntu_text"              => "Ubuntu Precise, Oneiric, Natty i Maverick korisnici QupZillu mogu instalirati pokretanjem ovih naredbi",
    "install_run_command"      => "Qupzillu možete instalirati  pokretanjem ovih naredbi",
+   "install_qt4_run_command"  => "Možete inastalirati Qupzillu na Qt4 pokretanjem ove naredbe",
    "for_development_version"  => "za ravojnu inačicu:",
    "packages_text"            => "32-bitni i 64-bitni paketi",
    "tarballs_text"            => "32-bitne i 64-bitne predkompilirane tarballs arhive",

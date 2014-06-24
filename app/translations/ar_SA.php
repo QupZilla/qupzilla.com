@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "مُثبتا كَبزيلّا لـWindows 32 بتًّا و64 بتًّأ يمكن تحميلهما من الرابطين أدناه",
    "ubuntu_text"              => "تتوفّر إصدارات أبونتو Precise وOneiric وNatty وMaverick من خلال تنفيذ الأوامر التالية",
    "install_run_command"      => "يمكنك تثبيت كّبزيلّا بتنفيذ هذا الأمر",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "للإصدارات قيد التطوير:",
    "packages_text"            => "حزم 32 بتًّا و64 بتًّا",
    "tarballs_text"            => "ملفات مضغوطة tarballs مبنيّة مُسبقًا",

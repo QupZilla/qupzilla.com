@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "Los instaladores de 32bit y 64 bit de Windows pueden ser descargados haciendo clic en los enlaces de abajo",
    "ubuntu_text"              => "Los usuarios de Ubuntu Precise, Oneiric, Natty and Maverick pueden instalar QupZilla ejecutando estos comandos",
    "install_run_command"      => "Puede instalar QupZilla ejecutando este comando",
+   "install_qt4_run_command"  => "Puede instalar QupZilla en Qt4 ejecutando este comando",
    "for_development_version"  => "para la versión en desarrollo:",
    "packages_text"            => "Paquetes de 32bit y 64 bit",
    "tarballs_text"            => "Archivos tar precompilados de 32bit y 64bit",

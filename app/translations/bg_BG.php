@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32 бита и 64 бита Windows инсталатори могат да бъдат изтеглени чрез следните връзки:",
    "ubuntu_text"              => "Ubuntu Precise, Oneiric, Natty и Maverick потребители могат да инсталират QupZilla изпълнявайки тези команди:",
    "install_run_command"      => "Можете да инсталирате QupZilla, като изпълните следната команда",
+   "install_qt4_run_command"  => "Можете да инсталирате QupZilla чрез Qt4, като изпълните следната команда",
    "for_development_version"  => "за версия в развитие:",
    "packages_text"            => "32 бита и 64 бита пакети",
    "tarballs_text"            => "32 бита и 64 бита готови тар-архиви",

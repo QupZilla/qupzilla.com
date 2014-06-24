@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32-bit en 64-bit Windows-installatiewizards kunnen worden gedownload door te klikken op onderstaande links",
    "ubuntu_text"              => "Ubuntu Precise, Oneiric, Natty en Maverick-gebruikers kunnen QupZilla installeren door deze commando's te gebruiken",
    "install_run_command"      => "U kunt QupZilla installeren door het ingeven van dit commando",
+   "install_qt4_run_command"  => "U kunt QupZilla met Qt4 installeren door dit commando uit te voeren",
    "for_development_version"  => "voor de in ontwikkeling zijnde versie:",
    "packages_text"            => "32-bit en 64-bit-pakketten",
    "tarballs_text"            => "32-bit en 64-bit voorgecompileerde tarballs",

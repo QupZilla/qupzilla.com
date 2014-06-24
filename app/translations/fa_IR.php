@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "با کلیک بر روی لینک‌های زیر، برنامه‌های نصب ویندوز 32 و 64 بیتی را می‌توانید دریافت کنید",
    "ubuntu_text"              => "کاربران ابونتوی Precise ،Oneiric ،Natty و Maverick می‌توانند با اجرای این دستورات کوپزیلا را نصب کنند",
    "install_run_command"      => "با اجرای این دستور می‌توانید کوپزیلا را نصب کنید",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "نسخه در حال توسعه:",
    "packages_text"            => "بسته‌های 32 و 64 بیتی",
    "tarballs_text"            => "بسته‌های کامپایل شده 32 و 64 بیتی",

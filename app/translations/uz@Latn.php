@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "Windows uchun 32 bitli va 64 bitli o'rnatuvchilar quyidagi havolalardan yuklab olsa bo'ladi",
    "ubuntu_text"              => "Ubuntu Precise, Oneiric, Natty va Maverick foydalanuvchilari QupZilla quyidagi buyruqlar orqali o'rnatishlari mumkin",
    "install_run_command"      => "Siz ushbu buyruqlar orqali QupZilla o'rnatishingiz mumkin",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "tuzuvchilar versiyasi uchun:",
    "packages_text"            => "32 bitli va 64 bitli paketlar",
    "tarballs_text"            => "Kompilyatsiya qilingan 32 bitli va 64 bitli arxivlar",

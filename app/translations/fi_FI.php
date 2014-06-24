@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "Voit ladata 32‐ tai 64‐bittisen Windows-asentimen napsauttamalla alla olevia linkkejä",
    "ubuntu_text"              => "Ubuntun Precise, Oneiric, Natty ja Maverick -versioiden käyttäjät voivat asentaa QupZillan suorittamalla nämä komennot",
    "install_run_command"      => "Voit asentaa QupZillan suorittamalla tämän komennon",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "suorita tämä asentaaksesi kehitysversio:",
    "packages_text"            => "32‐ ja 64‐bittiset paketit",
    "tarballs_text"            => "32‐ ja 64‐bittiset valmiiksi käännetyt tarballit",

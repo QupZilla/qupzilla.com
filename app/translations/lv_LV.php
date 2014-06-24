@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32 bitu un 64 bitu „Windows“ uzstādīšanas datnes iespējams lejupielādēt, noklikšķinot uz zemāk esošajām saitēm",
    "ubuntu_text"              => "„Ubuntu Precise“, „Oneiric“, „Natty“ un „Maverick“ lietotāji var uzstādīt „QupZilla“, palaizdami šīs komandas",
    "install_run_command"      => "Tu vari uzstādīt „QupZilla“, palaižot šo komandu",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "izstrādes versijai:",
    "packages_text"            => "32 bitu un 64bitu pakotnes",
    "tarballs_text"            => "32 bitu un 64 bitu iepriekš kompilētas „tarball“ datnes",

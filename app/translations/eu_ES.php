@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32bit eta 64bit-eko Windows ezartzaileak beheko lotura klikatuz jeitsi daitezke",
    "ubuntu_text"              => "Ubuntu Precise, Oneiric, Natty eta Maverick erabiltzaileek agindu hauek ekinez ezarri dezakete QupZilla",
    "install_run_command"      => "QupZilla agindu hau ekinez ezarri dezakezu",
+   "install_qt4_run_command"  => "QupZilla Qt4-n agindu hau ekinez ezarri dezakezu",
    "for_development_version"  => "garapen bertsiorako:",
    "packages_text"            => "32bit eta 64bit-eko paketeak",
    "tarballs_text"            => "32bit eta 64bit-eko aurrebildutako tarball-ak",

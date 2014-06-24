@@ -38,6 +38,7 @@ $LANG = array(
    "windows_text"             => "32-хбітні та 64-хбітні встановлювачі для Windows можна завантажити клацнувши на нижчерозташовані посилання",
    "ubuntu_text"              => "Користувачі Ubuntu Precise, Oneiric, Natty і Maverick можуть встановити QupZill'у запустивши наступні команди:",
    "install_run_command"      => "Ви можете встановити QupZill'у запустивши наступну команду:",
+   "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
    "for_development_version"  => "Для версії, яка розробляється:",
    "packages_text"            => "32-хбітні та 64-хбітні пакунки",
    "tarballs_text"            => "32-хбітні та 64-хбітні скомпільовані архіви",
