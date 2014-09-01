@@ -37,7 +37,7 @@ Con il lettore di fonti integrato, puoi rimanere aggiornato sui tuoi siti prefer
    "source_code"              => "Codice sorgente",
    "choose_os"                => "Scegli il tuo sistema operativo",
    "windows_text"             => "I pacchetti a 32bit e 64bit per Windows possono essere scaricati cliccando sui link sottostanti",
-   "ubuntu_text"              => "Gli utenti di Ubuntu Precise, Oneiric, Natty e Maverick possono installare QupZilla eseguendo questi comandi",
+   "ubuntu_text"              => "Ubuntu (and other Ubuntu-based linux distros) users can install QupZilla by running these commands",
    "install_run_command"      => "Puoi installare QupZilla tramite questo comando",
    "install_qt4_run_command"  => "Puoi installare QupZilla su Qt4 tramite questo comando",
    "for_development_version"  => "per la versione in sviluppo: ",

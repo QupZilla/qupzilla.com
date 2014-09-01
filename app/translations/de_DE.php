@@ -37,7 +37,7 @@ Mit dem integrierten RSS-Reader bleiben Sie immer auf dem neuesten Stand Ihrer I
    "source_code"              => "Quellcode",
    "choose_os"                => "Bitte wählen Sie Ihr Betriebssystem aus",
    "windows_text"             => "Das Windows-Installationsprogramm für 32bit und 64bit kann durch Klick auf die untenstehenden Links heruntergeladen werden",
-   "ubuntu_text"              => "Nutzer von Ubuntu Precise, Oneiric, Natty und Maverick können QupZilla durch Ausführen der folgenden Befehle installieren:",
+   "ubuntu_text"              => "Ubuntu-Nutzer und Nutzer anderer Ubuntu-basierender Distributionen können QupZilla durch Ausführen der folgenden Befehle installieren:",
    "install_run_command"      => "Installieren Sie QupZilla durch Ausführen dieses Befehls:",
    "install_qt4_run_command"  => "Installieren Sie QupZilla mit Qt4 durch Ausführen dieses Befehls",
    "for_development_version"  => "Zum Installieren der aktuellen Entwicklungsversion führen Sie diesen Befehl aus:",
