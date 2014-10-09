@@ -12,27 +12,27 @@ switch ($query)
     case "windows32":
     case "windows64":
     case "windows":
-        header("Location:http://qupzilla.com/uploads/qupzilla180.exe");
+        header("Location:http://qupzilla.com/uploads/qupzilla182.exe");
     break;
 
     case "windows_portable":
-        header("Location:http://qupzilla.com/uploads/qupzilla180_portable.zip");
+        header("Location:http://qupzilla.com/uploads/qupzilla182_portable.zip");
     break;
 
     case "debian32":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.0_i386.deb");
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.2_i386.deb");
     break;
 
     case "debian64":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.0_amd64.deb");
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.2_amd64.deb");
     break;
 
     case "linux32":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.0_i386.tar.xz");
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.2_i386.tar.xz");
     break;
 
     case "linux64":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.0_amd64.tar.xz");
+        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.2_amd64.tar.xz");
     break;
 
     case "os2":
@@ -52,7 +52,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v1.8.0");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v1.8.2");
     break;
 
     default:
