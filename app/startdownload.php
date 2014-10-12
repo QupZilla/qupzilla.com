@@ -44,7 +44,7 @@ switch ($query)
     break;
 
     case "mac":
-        header("Location:http://qupzilla.com/uploads/QupZilla-1.6.3.dmg");
+        header("Location:http://qupzilla.com/uploads/QupZilla-1.8.2.dmg");
     break;
 
     case "viewsource":
