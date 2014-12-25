@@ -27,8 +27,21 @@
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
-            <a href="http://bittip.it/" class="bittip-button" default-amount="1" default_currency="usd" request="count" url="" donation-message="" donation-address="1PLPEJ56kSEEzemzaAE5Xd1LCmPy73bgtV"></a>
-<script>(function() {var s = document.createElement('script');var t = document.getElementsByTagName('script')[0];s.type = 'text/javascript';s.async = true;var url; if (window.location.protocol == 'https:'){url = 'https://bitcoinsberlin.com/wp-content/uploads/2013/01/button-loader.js'} else { url = 'http://bittip.it/cdn/button-loader.js';};s.src = url;t.parentNode.insertBefore(s, t);})();</script>
+<script src="http://coinwidget.com/widget/coin.js"></script>
+<script>
+CoinWidgetCom.go({
+    wallet_address: "1PLPEJ56kSEEzemzaAE5Xd1LCmPy73bgtV"
+    , currency: "bitcoin"
+    , counter: "hide"
+    , alignment: "bl"
+    , qrcode: true
+    , auto_show: false
+    , lbl_button: "Donate"
+    , lbl_address: "My Bitcoin Address:"
+    , lbl_count: "donations"
+    , lbl_amount: "BTC"
+});
+</script>
             </p>
 
             <h4><?php echo $LANG["share_with_friends"]; ?></h4>
