@@ -11,7 +11,7 @@
         <li><a href="/contribute"><?php echo $LANG["menu_about"]; ?></a></li>
         </ul>
         </nav>
-      (c) 2010 - 2014 David Rosca <?php echo $LANG["copyright_comm"]; ?>
+      (c) 2010 - 2015 David Rosca <?php echo $LANG["copyright_comm"]; ?>
       <p><?php echo $LANG["laptop_icon"]; ?></p>
       <p><?php echo $LANG["translated_by"]; ?></p>
       <script type="text/javascript">var switchTo5x=true;</script>
