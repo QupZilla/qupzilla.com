@@ -129,6 +129,10 @@ switch ($short_lang) {
         $lang_id = "sk_SK";
         break;
 
+    case "tr":
+        $lang_id = "tr_TR";
+        break;
+
     case "bs":
         $lang_id = "sr@ijekavianlatin";
         break;

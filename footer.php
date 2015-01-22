@@ -65,6 +65,7 @@
         <li><a href="?lang=lv">Latviešu valoda</a></li>
         <li><a href="?lang=fi">Suomi</a></li>
         <li><a href="?lang=hr">Hrvatski</a></li>
+        <li><a href="?lang=tr">Türkçe</a></li>
         </ul>
       </nav>
      </div>

@@ -1,6 +1,6 @@
 <?php
 $LANG = array(
-   "site_title"               => "QupZilla — mazs vairākplatformu pārlūks",
+   "site_title"               => "QupZilla — mazs daudzplatformu pārlūks",
    "qupzilla"                 => "QupZilla",
    "header_description"       => "Tīmekļa pārlūks",
    "menu_home"                => "Mājas",
