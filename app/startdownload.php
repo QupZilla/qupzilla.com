@@ -36,7 +36,7 @@ switch ($query)
     break;
 
     case "os2":
-        header("Location:http://qupzilla.com/uploads/qupzilla-1.8.5-os2.7z");
+        header("Location:http://qupzilla.com/uploads/qupzilla-1.8.6-os2.7z");
     break;
 
     case "haiku":
