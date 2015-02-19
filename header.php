@@ -6,9 +6,11 @@
   <meta name="keywords" content="qupzilla, web browser, qt, qtwebkit, lightweight, multiplatform, crossplatform">
   <meta name="author" content="David Rosca">
   <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width,initial-scale=1"> 
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/responsive.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
@@ -31,9 +33,9 @@
 </head>
 <body>
     <?php if ($lang_direction == "RTL") { ?>
-        <a target="_blank" href="https://github.com/QupZilla/"><img style="position: absolute; top: 0; left: 0; right: auto; border: 0;" src="images/forkme_rtl.png" alt="Fork me on GitHub"></a>
+        <a target="_blank" href="https://github.com/QupZilla/"><img class="forkme" style="position: absolute; top: 0; left: 0; right: auto; border: 0;" src="images/forkme_rtl.png" alt="Fork me on GitHub"></a>
     <?php } else { ?>
-        <a target="_blank" href="https://github.com/QupZilla/"><img style="position: absolute; top: 0; left: auto; right: 0; border: 0;" src="images/forkme.png" alt="Fork me on GitHub"></a>
+        <a target="_blank" href="https://github.com/QupZilla/"><img class="forkme" style="position: absolute; top: 0; left: auto; right: 0; border: 0;" src="images/forkme.png" alt="Fork me on GitHub"></a>
     <?php } ?>
 
 <!-- header -->

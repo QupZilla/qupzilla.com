@@ -1,4 +1,4 @@
-  <section id="content">
+ <section id="content">
   	<div class="container_24">
      <div class="row-1 row">
       	<div class="wrapper">
