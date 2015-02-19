@@ -395,7 +395,7 @@ footer .container_24{
 
 
 /* Smartphones (portrait and landscape) ----------- */
-@media screen and (min-width : 320px) and (max-width : 479px) {
+@media screen and (min-width : 1px) and (max-width : 479px) {
 html{
 	min-width:0px;
 }
@@ -580,7 +580,7 @@ footer .container_24{
 }
 
 
-@media screen and (min-width : 320px) and (max-width : 340px) {
+@media screen and (min-width : 1px) and (max-width : 340px) {
 .box1{
 	display:none;
 }
