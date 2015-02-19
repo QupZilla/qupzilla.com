@@ -1,6 +1,6 @@
   <section id="content">
 	<div class="container_24">
-      <div class="row-1 row">
+      <div class="row-1-row">
       <table class="screeny">
       <tr><td colspan=4><h2>Linux KDE</h2></td></tr>
       <tr><td>

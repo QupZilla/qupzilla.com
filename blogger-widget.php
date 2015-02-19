@@ -4,6 +4,7 @@ require_once('app/bootstrap.php');
 <html>
 <head>
 <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+<link rel="stylesheet" href="css/responsive.css" type="text/css" media="all">
 <style>
 .gfc-control { margin-top: -10px; }
 .gf-author { display: none !important;}
@@ -12,7 +13,7 @@ require_once('app/bootstrap.php');
 
 </style>
 </head>
-<body style="background: #e5e5e5; width:320px; margin:3px; padding:0;">
+<body style="background: #e5e5e5; width:320px; margin:3px; padding:0;" class="blw">
 <div style="background: #e5e5e5; font-size:85%;">
 
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAq3SVCR-K0yI5_N0cswX1txT0VykOMYx3Zz_NUtzmY0vQvYY8dRRumpjgNGF4yD2y0xdghBjp7upN8A"></script>

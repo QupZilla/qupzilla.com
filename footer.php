@@ -11,12 +11,9 @@
         <li><a href="/contribute"><?php echo $LANG["menu_about"]; ?></a></li>
         </ul>
         </nav>
-      (c) 2010 - 2015 David Rosca <?php echo $LANG["copyright_comm"]; ?>
+      (c) 2010 - 2014 David Rosca <?php echo $LANG["copyright_comm"]; ?>
       <p><?php echo $LANG["laptop_icon"]; ?></p>
       <p><?php echo $LANG["translated_by"]; ?></p>
-      <script type="text/javascript">var switchTo5x=true;</script>
-      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-      <script type="text/javascript">stLight.options({publisher:'7426339b-3b24-4477-be7a-01b6df82a7ee'});</script>
       <span class='st_twitter_large' st_url='http://www.qupzilla.com'></span>
       <span class='st_facebook_large' st_url='http://www.qupzilla.com'></span>
       <span class='st_yahoo_large' st_url='http://www.qupzilla.com'></span>
@@ -65,7 +62,6 @@
         <li><a href="?lang=lv">Latviešu valoda</a></li>
         <li><a href="?lang=fi">Suomi</a></li>
         <li><a href="?lang=hr">Hrvatski</a></li>
-        <li><a href="?lang=tr">Türkçe</a></li>
         </ul>
       </nav>
      </div>
