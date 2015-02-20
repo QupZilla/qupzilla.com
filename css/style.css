@@ -384,7 +384,7 @@ header .logo {
 		margin-top:-5px;
 		color:#5a6466;
 	}
-	
+
 header nav {
 	position:absolute;
 	right:20px;
@@ -501,7 +501,7 @@ div.rowd-2 div:target {
 footer {
 	border-top:1px solid #c5c5c5;
 	color:#969696;
-	padding:50px 0 275px 0;
+	padding:50px 0 20px 0;
 }
 
 footer .container_24 {
@@ -543,7 +543,7 @@ footer .languages ul {
 	padding-top: 5px;
 }
 footer .languages li a{
-	padding-right:35px;
+	padding-right: 30px;
 	display:list-item;
 
 }
