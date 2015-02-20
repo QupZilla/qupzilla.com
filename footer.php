@@ -14,13 +14,6 @@
       (c) 2010 - 2015 David Rosca <?php echo $LANG["copyright_comm"]; ?>
       <p><?php echo $LANG["laptop_icon"]; ?></p>
       <p><?php echo $LANG["translated_by"]; ?></p>
-      <span class='st_twitter_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_facebook_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_yahoo_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_google_bmarks_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_linkedin_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_sharethis_large' st_url='http://www.qupzilla.com'></span>
-      <p></p>
       <?php echo $LANG["page_trans"]; ?>
      <div class="languages">
       <nav>
