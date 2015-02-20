@@ -40,7 +40,7 @@ switch ($query)
     break;
 
     case "haiku":
-        header("Location:http://haikuware.com/directory/view-details/internet-network/web-browsers/qupzilla-140-march-2013");
+        header("Location:http://haikuware.com/directory/view-details/internet-network/web-browsers/qupzilla-135");
     break;
 
     case "mac":
