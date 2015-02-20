@@ -12,9 +12,8 @@
   <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/responsive.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen">
-  <script type="text/javascript" src="js/prototype.js"></script>
-  <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
-  <script type="text/javascript" src="js/lightbox.js"></script>
+  <script src="js/jquery-1.11.0.min.js"></script>
+  <script src="js/lightbox.min.js"></script>
   <title><?php echo $LANG["site_title"]; ?></title>
   <!--[if lt IE 7]>
   	<link rel="stylesheet" href="css/ie/ie6.css" type="text/css" media="screen">
