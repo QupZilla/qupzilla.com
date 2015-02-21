@@ -1,12 +1,13 @@
 <?php
 $ACCEPT_LANGUAGE = "";
 
-// Check cookie
-if (isset($_COOKIE["language"]) && $_COOKIE["language"] != "")
-    $ACCEPT_LANGUAGE = $_COOKIE["language"];
 // Check AcceptLanguge header
 if (isset($_SERVER['HTTP_ACCEPT_LANGUAGE']))
     $ACCEPT_LANGUAGE = $_SERVER['HTTP_ACCEPT_LANGUAGE'];
+
+// Check cookie
+if (isset($_COOKIE["language"]) && $_COOKIE["language"] != "")
+    $ACCEPT_LANGUAGE = $_COOKIE["language"];
 
 // Set cookie in case language changes was requested
 if (isset($_GET['lang']) && $_GET["lang"] != "") {
