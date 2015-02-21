@@ -40,10 +40,12 @@
 <!-- header -->
   <header>
     <div class="container_24">
-    	<!-- .logo -->
+	<!-- .logo -->
+	<div id="logbase">    	
     	<div class="logo">
       	<h1><a href="/"><?php echo $LANG["qupzilla"]; ?></a></h1>
-      </div>
+		</div>
+	  </div>
     	<!-- /.logo -->
       <nav>
         <ul>
