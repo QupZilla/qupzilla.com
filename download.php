@@ -4,15 +4,29 @@
       <div class="row-1 rowd">
         <div class="os-wrapper">
           <div class="grid_7">
-            <a style="cursor:pointer" href="#windows">
+			<!--[if IE 6]>
+				<a style="cursor:pointer" href="http://qupzilla.com/uploads/qupzilla186.exe">
+			<![endif]-->
+			<!--[if !IE 6]>-->
+				<a style="cursor:pointer" href="#windows">
+			<!--<![endif]-->     
             <img class="os-image" src="images/os/windows.png"></a>
             <p class="os-text">Windows</p>
           </div>
+			<!--[if IE 6]>
+		  <div class="grid_7">
+            <a style="cursor:pointer" href="http://qupzilla.com/uploads/qupzilla186_portable.zip" >
+            <img class="os-image" src="images/os/windows.png"></a>
+            <p class="os-text">Windows portable</p>
+          </div>
+			<![endif]-->
+			<!--[if !IE 6]>-->
           <div class="grid_7">
             <a style="cursor:pointer" href="#ubuntu" >
             <img class="os-image" src="images/os/ubuntu.png"></a>
             <p class="os-text">Ubuntu</p>
           </div>
+			<!--<![endif]--> 
           <div class="grid_7">
             <a style="cursor:pointer" href="#suse" >
             <img class="os-image" src="images/os/opensuse.png"></a>
@@ -95,12 +109,6 @@
               <a href="startdownload?windows" target="blank">Windows Installer</a> |
               <a href="startdownload?windows_portable" target="blank">Portable Edition</a>
         </div>
-		
-		 <!--[if lt IE 7]>
-		 
-		 <p class="title"><a href="http://qupzilla.com/uploads/qupzilla186.exe">Windows standard edition</></p>
-		 <p class="title"><a href="http://qupzilla.com/uploads/qupzilla186_portable.zip">Windows portable edition</></p>
-		 <![endif]-->
 		
         <div class="down-box" id="debian">
             <p class="title">Debian</p>
