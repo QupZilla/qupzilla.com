@@ -95,7 +95,13 @@
               <a href="startdownload?windows" target="blank">Windows Installer</a> |
               <a href="startdownload?windows_portable" target="blank">Portable Edition</a>
         </div>
-
+		
+		 <!--[if lt IE 7]>
+		 
+		 <p class="title"><a href="http://qupzilla.com/uploads/qupzilla186.exe">Windows standard edition</></p>
+		 <p class="title"><a href="http://qupzilla.com/uploads/qupzilla186_portable.zip">Windows portable edition</></p>
+		 <![endif]-->
+		
         <div class="down-box" id="debian">
             <p class="title">Debian</p>
             <p><?php echo $LANG["packages_text"]; ?> (.deb) <?php echo $LANG["can_be_downloaded"]; ?></p>
