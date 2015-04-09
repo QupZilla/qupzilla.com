@@ -12,31 +12,31 @@ switch ($query)
     case "windows32":
     case "windows64":
     case "windows":
-        header("Location:http://qupzilla.com/uploads/qupzilla186.exe");
+        header("Location:/uploads/qupzilla186.exe");
     break;
 
     case "windows_portable":
-        header("Location:http://qupzilla.com/uploads/qupzilla186_portable.zip");
+        header("Location:/uploads/qupzilla186_portable.zip");
     break;
 
     case "debian32":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.6_i386.deb");
+        header("Location:/uploads/qupzilla_1.8.6_i386.deb");
     break;
 
     case "debian64":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.6_amd64.deb");
+        header("Location:/uploads/qupzilla_1.8.6_amd64.deb");
     break;
 
     case "linux32":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.6_i386.tar.xz");
+        header("Location:/uploads/qupzilla_1.8.6_i386.tar.xz");
     break;
 
     case "linux64":
-        header("Location:http://qupzilla.com/uploads/qupzilla_1.8.6_amd64.tar.xz");
+        header("Location:/uploads/qupzilla_1.8.6_amd64.tar.xz");
     break;
 
     case "os2":
-        header("Location:http://qupzilla.com/uploads/qupzilla-1.8.6-os2.7z");
+        header("Location:/uploads/qupzilla-1.8.6-os2.7z");
     break;
 
     case "haiku":
@@ -44,7 +44,7 @@ switch ($query)
     break;
 
     case "mac":
-        header("Location:http://qupzilla.com/uploads/QupZilla-1.8.2.dmg");
+        header("Location:/uploads/QupZilla-1.8.2.dmg");
     break;
 
     case "viewsource":
