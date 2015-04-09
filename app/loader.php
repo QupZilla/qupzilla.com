@@ -42,11 +42,16 @@ case ('checkupdate'):
     require_once('checkupdate.php');
     break;
 
-default:
+case (''):
+case ('home'):
     $current_page = "home";
     require_once('../header.php');
     require_once('../home.php');
     require_once('../footer.php');
+    break;
+
+default:
+    header("Location:/home");
     break;
 }
 ?>
