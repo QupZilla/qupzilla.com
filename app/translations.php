@@ -106,6 +106,10 @@ switch ($short_lang) {
         $lang_id = "ka_GE";
         break;
 
+    case "lt":
+        $lang_id = "lt";
+        break;
+
     case "lv":
         $lang_id = "lv_LV";
         break;
@@ -174,6 +178,10 @@ switch ($long_lang) {
     case "nqo":
         $lang_id = "nqo";
         $lang_direction = "RTL";
+        break;
+
+    case "pt-br":
+        $lang_id = "pt_BR";
         break;
 
     case "pt-pt":

@@ -4,6 +4,7 @@ $LANG = array(
    "qupzilla"                 => "QupZilla",
    "header_description"       => "Przeglądarka",
    "menu_home"                => "Dom",
+   "menu_mabout"              => "About",
    "menu_screenshots"         => "Zrzut Ekranu",
    "menu_download"            => "Pobierz",
    "menu_faq"                 => "FAQ",
@@ -17,13 +18,6 @@ $LANG = array(
    "older_versions_text"      => "Czy kiedykolwiek chciałeś wiedzieć, co się zmieniło w nowej wersji? 
 Wszystko możesz znaleźć w <a>liście zmian</a> na github!",
    "older_versions_button"    => "Lista Zmian",
-   "reportbug"                => "Zgłoś problem",
-   "reportbug_text"           => "Czy znalazłeś jakiś błąd lub masz tylko sugestie, jak <a>poprawić</a> QupZille?<br/>
-Otwórz nowy wątek na trackerze QupZilli na github.",
-   "reportbug_button"         => "Zgłoś teraz",
-   "technology"               => "Technologia",
-   "technology_text"          => "QupZilla jest nowoczesną przeglądarką bazującą na silniku WebKit i Frameworku Qt. WebKit gwarantuje <a>szybkie</a> przeglądanie a Qt wieloplatformowość aplikacji.",
-   "technology_button"        => "WebKit i Qt",
    "looknfeel_header"         => "Nowoczesny wygląd",
    "looknfeel_text"           => "QupZilla wykorzystuje wiele natywnych motywów dla popularnych linuksowych środowisk graficznych. Jeżeli twój natywny motyw jest zbyt nudny lub masz z nim jakieś problemy, możesz w prosty sposób go zmienić.",
    "library_header"           => "Ujednolicone Biblioteki",
@@ -34,6 +28,7 @@ Dzięki wbudowanemu czytnikowi RSS, można pozostać na bieżąco z ulubionymi s
    "speeddial_header"         => "Speed Dial",
    "speeddial_text"           => "Ten popularny dodatek wreszcie zagościł w QupZilli! Możesz teraz uzyskać dostęp do ulubionych stron tak szybko, jak chcesz w każdej nowej karcie. Nie zapomnijmy wspomnieć że Speed Dial umożliwia zarządzanie zakładkami za pomocą drag&drop \"przeciągnij i upuść\".",
    "devnews_header"           => "Nowości",
+   "dev_donatehelp"           => "to help with development",
    "feed_loading"             => "Ładuje...",
    "other_linux"              => "Inny z rodziny Linux",
    "source_code"              => "Kod Źródłowy",
@@ -60,13 +55,17 @@ Dzięki wbudowanemu czytnikowi RSS, można pozostać na bieżąco z ulubionymi s
    "translating_text"         => "Najnowsze tłumaczenia QupZilli odbywają się za pomocą witryny transifex.com. Jeżeli jesteś chętny to możesz dołączyć do ekipy tłumaczy lub podesłać nam błędy na email który znajdziesz w programie.",
    "translating_moreinfo"     => "Więcej informacji na temat tłumaczeń znajdziesz  <a href='https://github.com/QupZilla/qupzilla/wiki/Translating'>tutaj</a>[wiki na github]",
    "creators"                 => "Kto tworzy QupZille?",
-   "creators_text"            => "Właścicielem projektu i głównym programistą jest student z Republiki Czeskiej,<b> David Rosca</b> (nowrep).<br/>
-Poza kodowaniem, użytkownicy współtworzą tłumaczenia na wiele języków i wspierają QupZillę. Lista osób współtworzących dostępna jest <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>tutaj <a/>[github].<br/> <br/>
-Możesz także dołączyć do kanału IRC<b> #qupzilla</b> w sieci irc.freenode.net aby porozmawiać z osobami zaangażowanymi w rozwój QupZilli.",
+   "creators_text"            => "Apart from coding, others are contributing also by making translations or supporting QupZilla. Full list of contributors can be found <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>here</a> [at github].<br/>You can also join IRC channel <b>#qupzilla</b> at irc.freenode.net to chat with people involved in QupZilla.",
    "donate"                   => "Dotacje",
    "donate_text"              => "Jeśli lubisz QupZille, możesz wesprzeć nasz projekt ofiarując nam pomoc finansową.",
-   "share_with_friends"       => "Podziel się ze znajomymi!",
-   "share_with_friends_text"  => "Lubisz QupZille ? W takim razie pokaz ja znajomym !",
+   "about"                    => "About QupZilla",
+   "about_text"               => "QupZilla is a new and very fast QtWebEngine browser. It aims to be a lightweight web browser available through all major platforms. This project has been originally started only for educational purposes. But from its start, QupZilla has grown into a feature-rich browser.<p>
+QupZilla has all standard functions you expect from a web browser. It includes bookmarks, history (both also in sidebar) and tabs. Above that, it has by default enabled blocking ads with a built-in AdBlock plugin.",
+   "history"                  => "History",
+   "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
+Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
+   "creatortext1"             => "Project owner and main developer",
+   "creatortext2"             => "Student at FIT CTU",
    "screens_speeddial"        => "Szybkie Wybieranie",
    "screens_library"          => "Biblioteka",
    "screens_preferences"      => "Ustawienia",

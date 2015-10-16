@@ -548,6 +548,7 @@ footer .languages li a{
 
 }
 footer .languages .english {
+    font-weight: bold;
 }
 
 #gh-frame {
