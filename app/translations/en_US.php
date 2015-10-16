@@ -26,6 +26,7 @@ $LANG = array(
    "speeddial_header"         => "Speed Dial",
    "speeddial_text"           => "This popular extension is finally available for QupZilla users! You can now access your favourite pages as fast as you want on one page opened in new tab. Needless to say that it fully supports drag&amp;drop and page thumbnail loading.",
    "devnews_header"           => "Development News",
+   "dev_donatehelp"           => "to help with development",
    "feed_loading"             => "Loading...",
    "other_linux"              => "Other Linux",
    "source_code"              => "Source Code",

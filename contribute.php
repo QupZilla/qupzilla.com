@@ -17,6 +17,7 @@
             <br/><br/>
             <?php echo $LANG["translating_moreinfo"]; ?>
             </p>
+            <a name="donate"></a>
             <h4><?php echo $LANG["donate"]; ?></h4>
             <p><?php echo $LANG["donate_text"]; ?>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display:inline;padding-right:15px;">

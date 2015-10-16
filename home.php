@@ -39,9 +39,14 @@
         	<div class="grid_9">
           	<!-- .box1 -->
           	<div class="box1">
-                    <h2><?php echo $LANG["devnews_header"]; ?></h2>
-                    <iframe src="blogger-widget.php" style="width:330px; height:430px;margin-top:-15px;" scrolling="no"> </iframe>
+                    <h2 style="margin-bottom:0px;"><?php echo $LANG["devnews_header"]; ?></h2>
+                    <iframe src="blogger-widget.php" style="width:330px; height:400px;" scrolling="no"> </iframe>
                 </div>
+
+        <div style="margin-top:30px;margin-left:30px;">
+         <a style="margin-right:5px;" href="contribute#donate" class="download-button"><?php echo $LANG["donate"]; ?></a>
+         <span style="font-size:18px;"><?php echo $LANG["dev_donatehelp"]; ?></span>
+        </div>
           	<!-- /.box1 -->
           </div>
         </div>
