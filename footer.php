@@ -6,6 +6,7 @@
         <nav>
         <ul>
         <li><a href="/"><?php echo $LANG["menu_home"]; ?></a>|</li>
+        <li><a href="/about"><?php echo $LANG["menu_mabout"]; ?></a>|</li>
         <li><a href="/download"><?php echo $LANG["menu_download"]; ?></a>|</li>
         <li><a href="https://github.com/QupZilla/qupzilla/wiki/FAQ" target="blank"><?php echo $LANG["menu_faq"]; ?></a>|</li>
         <li><a href="/contribute"><?php echo $LANG["menu_about"]; ?></a></li>

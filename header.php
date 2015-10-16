@@ -6,7 +6,7 @@
   <meta name="keywords" content="qupzilla, web browser, qt, qtwebkit, lightweight, multiplatform, crossplatform">
   <meta name="author" content="David Rosca">
   <meta name="robots" content="index, follow">
-  <meta name="viewport" content="width=device-width,initial-scale=1"> 
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
@@ -41,7 +41,7 @@
   <header>
     <div class="container_24">
 	<!-- .logo -->
-	<div id="logbase">    	
+	<div id="logbase">
     	<div class="logo">
       	<h1><a href="/"><?php echo $LANG["qupzilla"]; ?></a></h1>
 		</div>
@@ -50,6 +50,7 @@
       <nav>
         <ul>
           <li><a href="home" <?php if($current_page == "home") echo "class=\"current\""; ?> ><?php echo $LANG["menu_home"]; ?></a></li>
+          <li><a href="about" <?php if($current_page == "about") echo "class=\"current\""; ?> ><?php echo $LANG["menu_mabout"]; ?></a></li>
           <li><a href="screenshots" <?php if($current_page == "screenshots") echo "class=\"current\""; ?> ><?php echo $LANG["menu_screenshots"]; ?></a></li>
           <li><a href="download" <?php if($current_page == "download") echo "class=\"current\""; ?> ><?php echo $LANG["menu_download"]; ?></a></li>
           <li><a href="https://github.com/QupZilla/qupzilla/wiki/FAQ" target="blank"><?php echo $LANG["menu_faq"]; ?></a></li>

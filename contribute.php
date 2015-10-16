@@ -17,8 +17,6 @@
             <br/><br/>
             <?php echo $LANG["translating_moreinfo"]; ?>
             </p>
-            <h4><?php echo $LANG["creators"]; ?></h4>
-            <p><?php echo $LANG["creators_text"]; ?></p>
             <h4><?php echo $LANG["donate"]; ?></h4>
             <p><?php echo $LANG["donate_text"]; ?>
             <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="display:inline;padding-right:15px;">
@@ -44,19 +42,6 @@ CoinWidgetCom.go({
 </script>
             </p>
 
-            <h4><?php echo $LANG["share_with_friends"]; ?></h4>
-            <p>
-            <?php echo $LANG["share_with_friends_text"]; ?><br/><br/>
-            <script type="text/javascript">var switchTo5x=true;</script>
-      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-      <script type="text/javascript">stLight.options({publisher:'7426339b-3b24-4477-be7a-01b6df82a7ee'});</script>
-      <span class='st_twitter_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_facebook_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_yahoo_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_google_bmarks_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_linkedin_large' st_url='http://www.qupzilla.com'></span>
-      <span class='st_sharethis_large' st_url='http://www.qupzilla.com'></span>
-            </p>
           </div>
         </div>
           </div>

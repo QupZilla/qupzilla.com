@@ -13,6 +13,13 @@ if ($query_pos) {
 
 switch($request)
 {
+case('about'):
+    $current_page = $request;
+    require_once('../header.php');
+    require_once('../about.php');
+    require_once('../footer.php');
+    break;
+
 case('screenshots'):
     $current_page = $request;
     require_once('../header.php');
