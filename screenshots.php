@@ -31,19 +31,19 @@
     <img width="200" height="200" src="screens/thumbs/gnome_preferences.png"></a>
     </td></tr>
 
-    <tr><td colspan=4><h2>Windows Vista/7</h2></td></tr>
+    <tr><td colspan=4><h2>Windows 10</h2></td></tr>
     <tr><td>
-      <a title="<?php echo $LANG["qupzilla"]; ?>: Windows Vista/7" href="screens/win7_window.png" rel="lightbox[screens]">
-      <img width="200" height="200" src="screens/thumbs/win7_window.png"></a>
+      <a title="<?php echo $LANG["qupzilla"]; ?>: Windows 10" href="screens/win_window.png" rel="lightbox[screens]">
+      <img width="200" height="200" src="screens/thumbs/win_window.png"></a>
       </td>
       <td>
-      <a title="<?php echo $LANG["screens_speeddial"]; ?>: Windows Vista/7" href="screens/win7_speeddial.png" rel="lightbox[screens]">
-      <img width="200" height="200" src="screens/thumbs/win7_speeddial.png"></a>
+      <a title="<?php echo $LANG["screens_speeddial"]; ?>: Windows 10" href="screens/win_speeddial.png" rel="lightbox[screens]">
+      <img width="200" height="200" src="screens/thumbs/win_speeddial.png"></a>
       </td>
-    <td><a title="<?php echo $LANG["screens_library"]; ?>: Windows Vista/7" href="screens/win7_library.png" rel="lightbox[screens]">
-    <img width="200" height="200" src="screens/thumbs/win7_library.png"></a></td>
-    <td><a title="<?php echo $LANG["screens_preferences"]; ?>: Windows Vista/7" href="screens/win7_preferences.png" rel="lightbox[screens]">
-    <img width="200" height="200" src="screens/thumbs/win7_preferences.png"></a>
+    <td><a title="<?php echo $LANG["screens_library"]; ?>: Windows 10" href="screens/win_library.png" rel="lightbox[screens]">
+    <img width="200" height="200" src="screens/thumbs/win_library.png"></a></td>
+    <td><a title="<?php echo $LANG["screens_preferences"]; ?>: Windows 10" href="screens/win_preferences.png" rel="lightbox[screens]">
+    <img width="200" height="200" src="screens/thumbs/win_preferences.png"></a>
     </td></tr>
 
     <tr><td colspan=4><h2>Windows XP</h2></td></tr>
