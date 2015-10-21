@@ -12,11 +12,11 @@ switch ($query)
     case "windows32":
     case "windows64":
     case "windows":
-        header("Location:/uploads/qupzilla186.exe");
+        header("Location:/uploads/qupzilla188.exe");
     break;
 
     case "windows_portable":
-        header("Location:/uploads/qupzilla186_portable.zip");
+        header("Location:/uploads/qupzilla188_portable.zip");
     break;
 
     case "debian32":
@@ -36,7 +36,7 @@ switch ($query)
     break;
 
     case "os2":
-        header("Location:/uploads/qupzilla-1.8.6-os2.7z");
+        header("Location:/uploads/qupzilla-1.8.7-os2.7z");
     break;
 
     case "haiku":
@@ -52,7 +52,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v1.8.6");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v1.8.8");
     break;
 
     default:
