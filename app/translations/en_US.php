@@ -30,7 +30,6 @@ $LANG = array(
    "ubuntu_text"              => "Ubuntu (and other Ubuntu-based linux distros) users can install QupZilla by running these commands",
    "install_run_command"      => "You can install QupZilla by running this command",
    "install_qt4_run_command"  => "You can install QupZilla on Qt4 by running this command",
-   "for_development_version"  => "for development version:",
    "packages_text"            => "32bit and 64bit packages",
    "tarballs_text"            => "32bit and 64bit precompiled tarballs",
    "qupzilla_for_text"        => "QupZilla for",

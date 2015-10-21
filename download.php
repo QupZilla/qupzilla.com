@@ -9,7 +9,7 @@
 			<![endif]-->
 			<!--[if !IE 6]>-->
 				<a style="cursor:pointer" href="#windows">
-			<!--<![endif]-->     
+			<!--<![endif]-->
             <img class="os-image" src="images/os/windows.png"></a>
             <p class="os-text">Windows</p>
           </div>
@@ -26,7 +26,7 @@
             <img class="os-image" src="images/os/ubuntu.png"></a>
             <p class="os-text">Ubuntu</p>
           </div>
-			<!--<![endif]--> 
+			<!--<![endif]-->
           <div class="grid_7">
             <a style="cursor:pointer" href="#suse" >
             <img class="os-image" src="images/os/opensuse.png"></a>
@@ -109,7 +109,7 @@
               <a href="startdownload?windows" target="blank">Windows Installer</a> |
               <a href="startdownload?windows_portable" target="blank">Portable Edition</a>
         </div>
-		
+
         <div class="down-box" id="debian">
             <p class="title">Debian</p>
             <p><?php echo $LANG["packages_text"]; ?> (.deb) <?php echo $LANG["can_be_downloaded"]; ?></p>
@@ -124,10 +124,6 @@
       sudo add-apt-repository ppa:nowrep/qupzilla
       sudo apt-get update
       sudo apt-get install qupzilla
-
-      <?php echo $LANG["for_development_version"]; ?>
-
-      sudo apt-get install qupzilla-next
               </pre>
         </div>
 
