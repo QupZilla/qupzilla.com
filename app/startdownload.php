@@ -20,19 +20,19 @@ switch ($query)
     break;
 
     case "debian32":
-        header("Location:/uploads/qupzilla_1.8.6_i386.deb");
+        header("Location:/uploads/qupzilla_1.8.8_i386.deb");
     break;
 
     case "debian64":
-        header("Location:/uploads/qupzilla_1.8.6_amd64.deb");
+        header("Location:/uploads/qupzilla_1.8.8_amd64.deb");
     break;
 
     case "linux32":
-        header("Location:/uploads/qupzilla_1.8.6_i386.tar.xz");
+        header("Location:/uploads/qupzilla_1.8.8_i386.tar.gz");
     break;
 
     case "linux64":
-        header("Location:/uploads/qupzilla_1.8.6_amd64.tar.xz");
+        header("Location:/uploads/qupzilla_1.8.8_amd64.tar.gz");
     break;
 
     case "os2":
