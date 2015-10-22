@@ -43,7 +43,7 @@
                     <iframe src="blogger-widget.php" style="width:330px; height:400px;" scrolling="no"> </iframe>
                 </div>
 
-        <div style="margin-top:30px;margin-left:30px;">
+        <div style="margin: 30px 0px 15px 30px;">
          <a style="margin-right:5px;" href="contribute#donate" class="download-button"><?php echo $LANG["donate"]; ?></a>
          <span style="font-size:18px;"><?php echo $LANG["dev_donatehelp"]; ?></span>
         </div>
