@@ -48,17 +48,17 @@ $LANG = array(
    "translating_text"         => "您还可以通过添加新的翻译或改进现有的翻译来帮助我们。我们在 Transifex 上提供了很好的翻译平台，网速慢的朋友还可以把文本从 Transifex 上下载至本地，利用 Qt Linguist 软件完成翻译后再上传上来。<BR /><BR /><A>译者注：现在征求藏语、维吾尔语等少数民族语言翻译（但是 QupZilla 所使用的 Qt 框架对蒙古文支持不佳，暂不征求）。</A>",
    "translating_moreinfo"     => "关于翻译的更多信息请参见<A href='https://github.com/QupZilla/qupzilla/wiki/Translating'>这里</A>〖GitHub 上的 Wiki（共笔平台）〗",
    "creators"                 => "谁创造了 QupZilla？",
-   "creators_text"            => "Apart from coding, others are contributing also by making translations or supporting QupZilla. Full list of contributors can be found <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>here</a> [at github].<br/>You can also join IRC channel <b>#qupzilla</b> at irc.freenode.net to chat with people involved in QupZilla.",
+   "creators_text"            => "除了编写代码，其他人是通过翻译或者服务支持为 QupZilla 做出贡献。完整的贡献列表在<a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>这里</a> [位于 github]。<br/>你也可以加入 IRC 频道 <b>#qupzilla</b> 于 irc.freenode.net 来与 QupZilla 的同好者们一起聊聊天。",
    "donate"                   => "捐助",
    "donate_text"              => "如果你喜爱 QupZilla，可以捐一点钱给我们。",
    "about"                    => "关于 QupZilla",
    "about_text"               => "QupZilla 是一款新的并且非常快速的 QtWebEngine 浏览器。它的目标是成为一个轻量级的 Web 浏览器，在所有主要平台上可用。本项目起初仅用于教育目的。但是，在它开始之后，QupZilla 已经发展成一个功能丰富的浏览器。<p>
 QupZilla 已经拥有所有你所期望的网页浏览器应有的所有标准功能。它包括书签、历史记录（也有侧栏）和标签页。除了以上功能，它还在默认情况下启用内置的拦截广告的 AdBlock 插件。",
    "history"                  => "历史记录",
-   "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
-Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
+   "history_text"             => "QupZilla 的最早版本在2010年12月发布，采用 Python 配合 PyQt4 编写。在几个版本之后，QupZilla 被使用 C++ 配合 Qt 框架完全重写。QupZilla 的 Windows 版本曾经采用 MingW 编译，但由于与 Flash 存在一个巨大的问题，它现在采用 Microsoft Visual C++ Compiler 2008 编译。首个公开发行版本是 1.0.0-b4。<p>
+直至版本 2.0，QupZilla 使用 QtWebKit。QtWebKit 目前已经不再使用，新版本使用 QtWebEngine。",
    "creatortext1"             => "项目所有者和主要开发者",
-   "creatortext2"             => "Student at FIT CTU",
+   "creatortext2"             => "FIT CTU 在校学生",
    "screens_speeddial"        => "快速拨号",
    "screens_library"          => "资料库",
    "screens_preferences"      => "首选项",

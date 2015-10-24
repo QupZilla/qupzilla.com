@@ -53,7 +53,7 @@ $LANG = array(
    "donate_text"              => "Se gosta do Qupzilla, também pode fazer um donativo.",
    "about"                    => "Sobre o QupZilla",
    "about_text"               => "O Qupzilla é um navegador web que utiliza a tecnologia QtWebEngine. Pretende-se que seja um navegador web para ser utilizado em todos os sistemas operativos. Este projeto nasceu com propósitos educacionais, mas já se tornou muito mais do que isso.<p>
-O Qupzilla possui todas as funções basilares que se esperam de um navegador web. Possui suporte a marcadores, histórico (ambos também na barra lateral) e separadores. Para além destas funções, também possui um bloqueador de anúncios integrado e que utiliza as listas AdBlock.",
+O Qupzilla possui todas as funções básicas que se esperam de um navegador web. Possui suporte a marcadores, histórico (ambos também na barra lateral) e separadores. Para além destas funções, também possui um bloqueador de anúncios integrado e que utiliza as listas AdBlock.",
    "history"                  => "Histórico",
    "history_text"             => "A primeira versão foi disponibilizada em dezembro de 2010 e foi desenvolvida em Python com associações PyQt4. Após algumas versões, o Qupzilla foi desenvolvido de raiz em C++ através da Qt Framework. A versão Windows foi inicialmente compilada com MingW, mas agora é compilada com Microsoft Visual C++ Compiler 2008. A primeira versão disponibilizada ao público foi a versão 1.0.0-b4.<p>
 Até à versão 2.0, o Qupzilla utilizava a estrutura QtWebKit, mas uma vez que esta estrutura foi descontinuada, utiliza agora a estrutura QtWebEngine.",

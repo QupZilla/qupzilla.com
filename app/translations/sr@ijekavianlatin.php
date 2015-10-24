@@ -48,12 +48,12 @@ $LANG = array(
    "translating_text"         => "Još jedan način za doprinos je da uradite ili poboljšate trenutni prevod. Ako želite da dodate novi jezik možete da napravite novi fajl prevoda ručno, ili možete da kontaktirate mene, i ja ću to da uradim za vas. Možete mi poslati vaše prevode e-poštom ili preko githaba.",
    "translating_moreinfo"     => "Više informacija o prevođenju <a href='https://github.com/QupZilla/qupzilla/wiki/Translating'>ovdje</a> [viki na githabu]",
    "creators"                 => "Ko je autor Kapzile?",
-   "creators_text"            => "Apart from coding, others are contributing also by making translations or supporting QupZilla. Full list of contributors can be found <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>here</a> [at github].<br/>You can also join IRC channel <b>#qupzilla</b> at irc.freenode.net to chat with people involved in QupZilla.",
+   "creators_text"            => "Osim programiranja, drugi doprinose i prevođenjem ili doniranjem projektu. Potpun spisak doprinosioca se nalazi <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>ovdje</a> [na Githabu].<br/>Takođe možete da se pridružite IRC kanalu <b>#qupzilla</b> na irc.freenode.net da biste ćaskali sa ljudima uključenim u projekat Kapzila.",
    "donate"                   => "Donirajte",
    "donate_text"              => "Ako vam se sviđa Kapzila, možete i donirati mali iznos novca.",
    "about"                    => "O Kapzili",
-   "about_text"               => "QupZilla is a new and very fast QtWebEngine browser. It aims to be a lightweight web browser available through all major platforms. This project has been originally started only for educational purposes. But from its start, QupZilla has grown into a feature-rich browser.<p>
-QupZilla has all standard functions you expect from a web browser. It includes bookmarks, history (both also in sidebar) and tabs. Above that, it has by default enabled blocking ads with a built-in AdBlock plugin.",
+   "about_text"               => "Kapzila (QupZilla) je nov i veoma brz pregledač baziran na Kutovom Vebendžinu (QtWebEngine). Cilja da bude lagani veb pregledač dostupan na svim glavnim platformama. Ovaj projekat je započet u svrhu učenja, ali već na početku Kapzila je izrasla u pregledač bogat mogućnostima.<p>
+Kapzila posjeduje sve standardne funkcije koje očekujete od veb pregledača. To uključuje obilježivače i istorijat (u bočnoj traci, takođe) i jezičke. Osim toga, podrazumijevano blokira reklame pomoću ugrađenog Adblok priključka.",
    "history"                  => "Istorijat",
    "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
 Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
