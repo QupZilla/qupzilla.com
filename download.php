@@ -92,7 +92,7 @@
           <div class="grid_7">
             <a style="cursor:pointer" href="#haiku" >
             <img class="os-image" src="images/os/haiku.png"></a>
-            <p class="os-text">Haiku OS</p>
+            <p class="os-text">Haiku</p>
           </div>
           <div class="grid_7">
             <a style="cursor:pointer" href="#source" >
@@ -199,10 +199,10 @@
         </div>
 
         <div class="down-box" id="haiku">
-            <p class="title">Haiku OS</p>
-            <p><?php echo $LANG["qupzilla_for_text"]; ?> Haiku OS <?php echo $LANG["can_be_downloaded"]; ?></p>
-              <a href="startdownload?haiku" target="blank">Haiku OS package</a>
-               (on haikuware.com)
+            <p class="title">Haiku</p>
+            <p><?php echo $LANG["qupzilla_for_text"]; ?> Haiku <?php echo $LANG["can_be_downloaded"]; ?></p>
+              <a href="startdownload?haiku" target="blank">Haiku package</a>
+               (on depot.haiku-os.org)
         </div>
 
         <div class="down-box" id="linux">
