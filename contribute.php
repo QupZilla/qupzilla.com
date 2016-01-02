@@ -26,20 +26,17 @@
             <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
             </form>
-<script src="http://coinwidget.com/widget/coin.js"></script>
+<span id="donate-bitcoin"></span>
 <script>
-CoinWidgetCom.go({
-    wallet_address: "1PLPEJ56kSEEzemzaAE5Xd1LCmPy73bgtV"
-    , currency: "bitcoin"
-    , counter: "hide"
-    , alignment: "bl"
-    , qrcode: true
-    , auto_show: false
-    , lbl_button: "Donate"
-    , lbl_address: "My Bitcoin Address:"
-    , lbl_count: "donations"
-    , lbl_amount: "BTC"
-});
+  $(function() {
+    $('#donate-bitcoin').coinTipper({
+      type: 'donate',
+      currency: 'bitcoin',
+      iso: 'BTC',
+      address: '1PLPEJ56kSEEzemzaAE5Xd1LCmPy73bgtV',
+      label: 'QupZilla'
+    });
+  });
 </script>
             </p>
 
