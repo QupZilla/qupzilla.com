@@ -16,7 +16,7 @@ require_once('app/bootstrap.php');
 <body style="background: #e5e5e5; width:320px; margin:3px; padding:0;" class="blw">
 <div style="background: #e5e5e5; font-size:85%;">
 
-<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAq3SVCR-K0yI5_N0cswX1txT0VykOMYx3Zz_NUtzmY0vQvYY8dRRumpjgNGF4yD2y0xdghBjp7upN8A"></script>
+<script type="text/javascript" src="https://www.google.com/jsapi?key=ABQIAAAAq3SVCR-K0yI5_N0cswX1txT0VykOMYx3Zz_NUtzmY0vQvYY8dRRumpjgNGF4yD2y0xdghBjp7upN8A"></script>
 <script type="text/javascript">
 google.load("feeds", "1");
 function OnLoad() {

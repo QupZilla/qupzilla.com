@@ -1,7 +1,7 @@
 <!-- footer -->
   <footer>
     <div class="container_24">
-        <iframe src="http://tylerlh.github.com/github-latest-commits-widget/?username=QupZilla&repo=qupzilla&limit=5"
+        <iframe src="https://tylerlh.github.io/github-latest-commits-widget/?username=QupZilla&repo=qupzilla&limit=5"
         allowtransparency="true" frameborder="0" scrolling="no" id="gh-frame"></iframe>
         <nav>
         <ul>
