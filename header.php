@@ -2,8 +2,8 @@
 <html lang="<?php echo $lang_id; ?>">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <meta name="description" content="QupZilla is a lightweight multiplatform web browser written in Qt Framework and using its web rendering core QtWebKit.">
-  <meta name="keywords" content="qupzilla, web browser, qt, qtwebkit, lightweight, multiplatform, crossplatform">
+  <meta name="description" content="QupZilla is a lightweight multiplatform web browser written in Qt Framework and using its web rendering engine QtWebEngine.">
+  <meta name="keywords" content="qupzilla, web browser, qt, qtwebengine, lightweight, multiplatform, crossplatform">
   <meta name="author" content="David Rosca">
   <meta name="robots" content="index, follow">
   <meta name="viewport" content="width=device-width,initial-scale=1">
