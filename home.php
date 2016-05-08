@@ -50,7 +50,7 @@
           <li><a href="download"  >Download</a></li>
           <li><a href="https://github.com/QupZilla/qupzilla/wiki/FAQ" target="blank">FAQ</a></li>
           <li><a href="contribute"   >Contribute</a></li>
-          <li><a href="https://bugaos.weebly.com">The default browser of Buga OS</a></li>
+          <li><a href="//blog.qupzilla.com">Blog</a></li>
         </ul>
       </nav>
     </div>
