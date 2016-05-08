@@ -30,7 +30,7 @@
           <div class="grid_7">
             <a style="cursor:pointer" href="#suse" >
             <img class="os-image" src="images/os/opensuse.png"></a>
-            <p class="os-text">openSUSE</p>
+            <p class="os-text">openSUSE / Buga</p>
           </div>
           <div class="grid_7">
             <a style="cursor:pointer" href="#fedora" >
@@ -100,14 +100,6 @@
             <p class="os-text"><?php echo $LANG["source_code"]; ?></p>
           </div>
         </div>
-        <div class="os-wrapper">
-          <div class="grid_7">
-            <a style="cursor:pointer" href="#buga" >
-            <img class="os-image" src="https://d1099yxbcpf3k9.cloudfront.net/theme/logo/thumbnail/40db4deee2905f6d9e44dbecba752185"></a>
-            <p class="os-text">Buga (A OpenSUSE OS made with SUSEStudio)</p>
-          </div>
-         </div>
-      </div>
 
       <div class="rowd-2 boxes">
         <div class="down-box" id="windows">
@@ -164,8 +156,10 @@
 
         <div class="down-box" id="suse">
             <p class="title">openSUSE</p>
+            <p><a href="#buga">Buga OS Click here</a>, or:</p>
             <p><?php echo $LANG["packages_text"]; ?> (.rpm) <?php echo $LANG["can_be_downloaded"]; ?></p>
              <iframe id="suse-iframe" width="900" height="450" src="http://software.opensuse.org/download/package.iframe?project=KDE:Extra&amp;package=qupzilla"> </iframe>
+             
         </div>
 
         <div class="down-box" id="fedora">
@@ -220,8 +214,8 @@
         </div>
 
         <div class="down-box" id="buga">
-            <p class="title">Windows</p>
-            <p><?php echo $LANG["windows_text"]; ?></p>
+            <p class="title">Buga</p>
+            <p><?php echo $LANG["buga_text"]; ?></p>
               <a href="http://software.opensuse.org/ymp/KDE:Extra/openSUSE_13.2/qupzilla.ymp" target="blank">Buga (OpenSUSE 13.2) One-Click Installer</a> |
               <a href="http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_13.2/src/qupzilla-1.8.9-41.28.src.rpm" target="blank">Grab binary package directly (.rpm)</a>
         </div>
