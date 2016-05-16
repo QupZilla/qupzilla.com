@@ -44,7 +44,7 @@ $LANG = array(
    "getting_source_text1"     => "The easiest way you can get QupZilla source is to clone it from github repository. You can do it by running this command",
    "getting_source_text2"     => "and then you can start hacking. You can send me your patches by e-mail or at github.",
    "translating"              => "Translating into other languages",
-   "translating_text"         => "Another way how to contribute is to add or improve current translations. If you want add new language, you can generate new translations file manually, or you can contact me, and I will do it for you. You cand send me your translations again by e-mail or at github.",
+   "translating_text"         => "Another way how to contribute is to add or improve current translations. If you want add new language, you can generate new translations file manually, or you can contact me, and I will do it for you. Please use <a href='https://www.transifex.com/nowrep/qupzilla/'>Transifex</a> for updating translations.",
    "translating_moreinfo"     => "More information about translating <a href='https://github.com/QupZilla/qupzilla/wiki/Translating'>here</a> [wiki at github]",
    "creators"                 => "Who creates QupZilla?",
    "creators_text"            => "Apart from coding, others are contributing also by making translations or supporting QupZilla. Full list of contributors can be found <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>here</a> [at github].<br/>You can also join IRC channel <b>#qupzilla</b> at irc.freenode.net to chat with people involved in QupZilla.",
