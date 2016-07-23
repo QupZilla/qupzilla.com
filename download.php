@@ -190,6 +190,9 @@
             <p class="title">Mac OS X</p>
             <p><?php echo $LANG["qupzilla_for_text"]; ?> Mac OS X <?php echo $LANG["can_be_downloaded"]; ?></p>
               <a href="startdownload?mac" target="blank">Mac OS X image (.dmg)</a>
+              <pre style="margin-left: 340px;">
+      Homebrew: brew cask install qupzilla
+              </pre>
         </div>
 
         <div class="down-box" id="os2">
