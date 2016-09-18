@@ -1,6 +1,6 @@
 <?php
 $LANG = array(
-   "site_title"               => "QupZilla - Un navigateur léger et multiplateforme",
+   "site_title"               => "QupZilla – Un navigateur léger et multiplateforme",
    "qupzilla"                 => "QupZilla",
    "header_description"       => "Navigateur Web",
    "menu_home"                => "Accueil",
@@ -30,7 +30,6 @@ $LANG = array(
    "ubuntu_text"              => "Les utilisateurs d'Ubuntu (et des autres distributions basées sur Ubuntu) peuvent installer QupZilla en exécutant ces commandes",
    "install_run_command"      => "Vous pouvez installer QupZilla en exécutant ces commandes",
    "install_qt4_run_command"  => "Vous pouvez installer QupZilla en Qt4 en exécutant cette commande",
-   "for_development_version"  => "Pour les versions de développement :",
    "packages_text"            => "Paquets 32 et 64 bits",
    "tarballs_text"            => "Tarballs 32 et 64 bits précompilés",
    "qupzilla_for_text"        => "QupZilla pour",
@@ -45,20 +44,20 @@ $LANG = array(
    "getting_source_text1"     => "La façon la plus simple d'obtenir les sources de QupZilla est de les cloner à partir du dépôt sur GitHub. Vous pouvez le faire en utilisant cette commande ",
    "getting_source_text2"     => "Vous pouvez ensuite commencer à coder. Vous pouvez m'envoyer vos modifications par e-mail ou sur GitHub. ",
    "translating"              => "Traductions dans d'autres langues",
-   "translating_text"         => "Vous pouvez aussi participer en ajoutant ou en améliorant les traductions existantes. Si vous voulez ajouter une nouvelle langue, vous pouvez générer un nouveau fichier de traduction manuellement, ou me contacter et je le ferai pour vous. Vous pouvez  à nouveau m'envoyer votre traduction par e-mail ou sur GitHub.",
+   "translating_text"         => "Vous pouvez également contribuer en ajoutant ou en améliorant les traductions actuelles. Si vous souhaitez ajouter une nouvelle langue, vous pouvez générer un nouveau fichier de traduction manuellement ou bien me contacter pour que je le fasse pour vous. Veuillez utiliser <a href='https://www.transifex.com/nowrep/qupzilla/'>Transifex</a> pour mettre à jour les traductions.",
    "translating_moreinfo"     => "Plus d'informations sur la traduction <a href='https://github.com/QupZilla/qupzilla/wiki/Translating'>ici</a> [Wiki sur GitHub] ",
    "creators"                 => "Qui développe QupZilla ?",
-   "creators_text"            => "Hormis en codant, vous pouvez contribuer aussi en traduisant ou en supportant QupZilla. La liste complète des contributeurs peut être trouvée <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>ici</a> [sur github].<br/>Vous pouvez également rejoindre le canal IRC <b>#qupzilla</b> sur irc.freenode.net pour chatter avec les personnes impliquées dans le développement de QupZilla.",
+   "creators_text"            => "Hormis en codant, vous pouvez également contribuer en traduisant ou en supportant QupZilla. La liste complète des contributeurs peut être trouvée <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>ici</a> [sur github].<br/>Vous pouvez également rejoindre le canal IRC <b>#qupzilla</b> sur irc.freenode.net pour chatter avec les personnes impliquées dans le développement de QupZilla.",
    "donate"                   => "Faire un don",
    "donate_text"              => "Si vous aimez QupZilla, vous pouvez également faire un petit don financier.",
-   "about"                    => "A propos de QupZilla",
-   "about_text"               => "QupZilla is a new and very fast QtWebEngine browser. It aims to be a lightweight web browser available through all major platforms. This project has been originally started only for educational purposes. But from its start, QupZilla has grown into a feature-rich browser.<p>
-QupZilla has all standard functions you expect from a web browser. It includes bookmarks, history (both also in sidebar) and tabs. Above that, it has by default enabled blocking ads with a built-in AdBlock plugin.",
+   "about"                    => "À propos de QupZilla",
+   "about_text"               => "Qupzilla est un nouveau navigateur internet basé sur le moteur QtWeb. Il est disponible pour un grand nombre de plateformes et a l'ambition de ménager les ressources du système.À l'origine ce projet était destiné uniquement à satisfaire des besoins éducatifs. Mais dès le début Qupzilla a été un navigateur étoffé d'une riche palette de fonctions. .<p>
+Aujourd'hui Qupzilla offre toutes les fonctions standards que l'on peu attendre d'un navigateur internet. Incluant, les marques-pages, l'historique (même en panneaux latéraux) et les onglets. Et en prime, le plugin AdBlock a été implanté, ce qui permet par défaut de bloquer les annonces publicitaires.",
    "history"                  => "Historique",
-   "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
-Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
+   "history_text"             => "La toute première version de Qupzilla publiée en décembre 2010, fût écrite en language Python sous plateforme PyQt4. Aprés quelques versions Qupzilla a été réécrit en C++ sous Framewwork Qt. La version Windows de Qupzilla a d'abord été compilée avec l'outil MingW. Mais suite à de nombreux problèmes avec Flash, il a été dès lors compilé avec Microsoft Visual C++ Compiler 2008. La première release rendue publique portait le numéro 1.0.0-b4<p>
+Jusqu'à la version 2.0, Qupzilla se basait sur la plateforme QtWebKit. QtWebKit étant devenu obsolète, la nouvelle version se base aujourd'hui sur la plateforme QtWebEngine.",
    "creatortext1"             => "Propriétaire du projet et développeur principal",
-   "creatortext2"             => "Student at FIT CTU",
+   "creatortext2"             => "Étudiant au FIT CTU",
    "screens_speeddial"        => "Speed Dial",
    "screens_library"          => "Bibliothèque",
    "screens_preferences"      => "Préférences",

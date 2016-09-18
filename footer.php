@@ -45,8 +45,8 @@
         <li><a href="?lang=ja">日本語</a></li>
         <li><a href="?lang=pl">Polski</a></li>
         <li><a href="?lang=pt">Português</a></li>
-        <li><a href="?lang=pt-br">Português (Brazil)</a></li>
         <li><a href="?lang=ru">Pусский</a></li>
+        <li><a href="?lang=is">Íslenska</a></li>
         </ul>
         <ul>
         <li><a href="?lang=sr">српски (екавски)&lrm;</a></li>

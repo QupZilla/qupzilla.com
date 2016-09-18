@@ -30,7 +30,6 @@ $LANG = array(
    "ubuntu_text"              => "Korisnici Ubuntua i srodnih sistema mogu instalirati Kapzilu pokretanjem ovih naredbi",
    "install_run_command"      => "Možete instalirati Kapzilu ovom naredbom",
    "install_qt4_run_command"  => "Možete instalirati Kapzilu na Kut4 ovom naredbom",
-   "for_development_version"  => "za izdanje u razvoju:",
    "packages_text"            => "32 bitni i 64 bitni paketi",
    "tarballs_text"            => "32 bitni i 64 bitni kompilirani arhivi paketa",
    "qupzilla_for_text"        => "Paketi za",
@@ -45,7 +44,7 @@ $LANG = array(
    "getting_source_text1"     => "Najlakši način za dobavljanje Kapzilinog izvornog kôda je da ga klonirate sa riznice na githabu. To možete da uradite ovom naredbom",
    "getting_source_text2"     => "i hakovanje može da počne! Možete mi poslati vaše izmene e-poštom ili preko githaba.",
    "translating"              => "Prevođenje na ostale jezike",
-   "translating_text"         => "Još jedan način za doprinos je da uradite ili poboljšate trenutni prevod. Ako želite da dodate novi jezik možete da napravite novi fajl prevoda ručno, ili možete da kontaktirate mene, i ja ću to da uradim za vas. Možete mi poslati vaše prevode e-poštom ili preko githaba.",
+   "translating_text"         => "Još jedan način za doprinos je da uradite ili poboljšate prevode. Ako želite da dodate novi jezik možete da napravite novi fajl prevoda ručno, ili možete da me kontaktirate pa ću ja to da uradim za vas. Za ažuriranje prevoda koristite <a href='https://www.transifex.com/nowrep/qupzilla/'>Transifex</a>.",
    "translating_moreinfo"     => "Više informacija o prevođenju <a href='https://github.com/QupZilla/qupzilla/wiki/Translating'>ovde</a> [viki na githabu]",
    "creators"                 => "Ko je autor Kapzile?",
    "creators_text"            => "Osim programiranja, drugi doprinose i prevođenjem ili doniranjem projektu. Potpun spisak doprinosioca se nalazi <a href='https://github.com/QupZilla/qupzilla/blob/master/AUTHORS'>ovde</a> [na Githabu].<br/>Takođe možete da se pridružite IRC kanalu <b>#qupzilla</b> na irc.freenode.net da biste ćaskali sa ljudima uključenim u projekat Kapzila.",
@@ -55,8 +54,8 @@ $LANG = array(
    "about_text"               => "Kapzila (QupZilla) je nov i veoma brz pregledač baziran na Kutovom Vebendžinu (QtWebEngine). Cilja da bude lagani veb pregledač dostupan na svim glavnim platformama. Ovaj projekat je započet u svrhu učenja, ali već na početku Kapzila je izrasla u pregledač bogat mogućnostima.<p>
 Kapzila poseduje sve standardne funkcije koje očekujete od veb pregledača. To uključuje obeleživače i istorijat (u bočnoj traci, takođe) i jezičke. Osim toga, podrazumevano blokira reklame pomoću ugrađenog Adblok priključka.",
    "history"                  => "Istorijat",
-   "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
-Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
+   "history_text"             => "Prvo izdanje Kapzile je bilo u decembru 2010. i napisano u pajtonu sa PyQt4 vezovima. Nakon nekoliko izdanja Kapzila je kompletno prepisana u C++ na Kutovom (Qt) radnom okviru. Izdanje Kapzile za Vindouz je kompilovano MingW-om, ali zbog problema sa flešom sada se kompiluje Majkrosoftovim „Vižual C++ kompajlerom 2008“. Prvo javno izdanje je bilo 1.0.0-b4.<p>
+Do izdanja 2.0 Kapzila je koristila Kutov vebkit. Kutov vebkit (QtWebKit) je sada zastareo pa novija izdanja koriste Kutov vebendžin (QtWebEngine).",
    "creatortext1"             => "Vlasnik projekta i glavni programer",
    "creatortext2"             => "Student na FIT CTU",
    "screens_speeddial"        => "Brzo biranje",

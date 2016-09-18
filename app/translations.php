@@ -44,6 +44,10 @@ switch ($short_lang) {
         $lang_id = "cs_CZ";
         break;
 
+    case "da":
+        $lang_id = "da_DK";
+        break;
+
     case "de":
         $lang_id = "de_DE";
         break;
@@ -92,6 +96,10 @@ switch ($short_lang) {
 
     case "id":
         $lang_id = "id_ID";
+        break;
+
+    case "is":
+        $lang_id = "is";
         break;
 
     case "it":
