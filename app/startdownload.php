@@ -12,11 +12,11 @@ switch ($query)
     case "windows32":
     case "windows64":
     case "windows":
-        header("Location:/uploads/qupzilla201.exe");
+        header("Location:/uploads/qupzilla202.exe");
     break;
 
     case "windows_portable":
-        header("Location:/uploads/qupzilla201_portable.zip");
+        header("Location:/uploads/qupzilla202_portable.zip");
     break;
 
     case "debian32":
@@ -44,7 +44,7 @@ switch ($query)
     break;
 
     case "mac":
-        header("Location:/uploads/QupZilla-2.0.1.dmg");
+        header("Location:/uploads/QupZilla-2.0.2.dmg");
     break;
 
     case "viewsource":
@@ -52,7 +52,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v2.0.1");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v2.0.2");
     break;
 
     default:
