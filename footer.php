@@ -12,7 +12,7 @@
         <li><a href="/contribute"><?php echo $LANG["menu_about"]; ?></a></li>
         </ul>
         </nav>
-      &lrm;(c) 2010 - 2015 David Rosca <?php echo $LANG["copyright_comm"]; ?>
+      &lrm;(c) 2010 - 2016 David Rosca <?php echo $LANG["copyright_comm"]; ?>
       <p><?php echo $LANG["laptop_icon"]; ?></p>
       <p><?php echo $LANG["translated_by"]; ?></p>
       <?php echo $LANG["page_trans"]; ?>
