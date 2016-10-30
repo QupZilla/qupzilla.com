@@ -18,7 +18,7 @@ if (isset($_GET['lang']) && $_GET["lang"] != "") {
 $ACCEPT_LANGUAGE = strtolower($ACCEPT_LANGUAGE);
 
 $short_lang = substr($ACCEPT_LANGUAGE, 0, 2);
-$ISO639_3_lang = substr($ACCEPT_LANGUAGE, 0, 3);
+$iso639_3_lang = substr($ACCEPT_LANGUAGE, 0, 3);
 $long_lang = substr($ACCEPT_LANGUAGE, 0, 5);
 
 // Default language
@@ -175,7 +175,7 @@ switch ($short_lang) {
         break;
 }
 
-switch ($ISO639_3_lang) {
+switch ($iso639_3_lang) {
      case "nqo":
         $lang_id = "nqo";
         $lang_direction = "RTL";
