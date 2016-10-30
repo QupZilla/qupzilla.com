@@ -18,6 +18,7 @@ if (isset($_GET['lang']) && $_GET["lang"] != "") {
 $ACCEPT_LANGUAGE = strtolower($ACCEPT_LANGUAGE);
 
 $short_lang = substr($ACCEPT_LANGUAGE, 0, 2);
+$three_lang = substr($ACCEPT_LANGUAGE, 0, 3);
 $long_lang = substr($ACCEPT_LANGUAGE, 0, 5);
 
 // Default language
@@ -114,6 +115,10 @@ switch ($short_lang) {
         $lang_id = "ka_GE";
         break;
 
+    case "ko":
+        $lang_id = "ko_KR";
+        break;
+
     case "lt":
         $lang_id = "lt";
         break;
@@ -162,10 +167,6 @@ switch ($short_lang) {
         $lang_id = "uk_UA";
         break;
 
-    case "yue":
-        $lang_id = "zh_HK";
-        break;
-
     case "zh":
         $lang_id = "zh_CN";
         break;
@@ -174,6 +175,20 @@ switch ($short_lang) {
         break;
 }
 
+switch ($three_lang) {
+     case "nqo":
+        $lang_id = "nqo";
+        $lang_direction = "RTL";
+        break;
+       
+    case "yue":
+        $lang_id = "zh_HK";
+        break;
+
+    default:
+        break;
+}
+        
 switch ($long_lang) {
     case "es-419":
         $lang_id = "es_419";
@@ -185,11 +200,6 @@ switch ($long_lang) {
 
     case "es-mx":
         $lang_id = "es_MX";
-        break;
-
-    case "nqo":
-        $lang_id = "nqo";
-        $lang_direction = "RTL";
         break;
 
     case "pt-br":
