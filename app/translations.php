@@ -206,8 +206,16 @@ switch ($long_lang) {
         $lang_id = "sr@ijekavianlatin";
         break;
 
+    case "zh":
     case "zh-cn":
+    case "zh-sg":
         $lang_id = "zh_CN";
+        break;
+
+    case "yue":
+    case "zh-hk":
+    case "zh-mo":
+        $lang_id = "zh_HK";
         break;
 
     case "zh-tw":
