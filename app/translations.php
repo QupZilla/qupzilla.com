@@ -175,20 +175,6 @@ switch ($short_lang) {
         break;
 }
 
-switch ($iso639-3_lang) {
-    case "nqo":
-        $lang_id = "nqo";
-        $lang_direction = "RTL";
-        break;
-       
-    case "yue":
-        $lang_id = "zh_HK";
-        break;
-
-    default:
-        break;
-}
-        
 switch ($long_lang) {
     case "es-419":
         $lang_id = "es_419";
@@ -202,6 +188,11 @@ switch ($long_lang) {
         $lang_id = "es_MX";
         break;
 
+    case "nqo":
+        $lang_id = "nqo";
+        $lang_direction = "RTL";
+        break;
+        
     case "pt-br":
         $lang_id = "pt_BR";
         break;
@@ -225,6 +216,7 @@ switch ($long_lang) {
         $lang_id = "zh_CN";
         break;
 
+    case "yue":
     case "zh-hk":
     case "zh-mo":
         $lang_id = "zh_HK";
