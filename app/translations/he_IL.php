@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Linux אחרת",
    "source_code"              => "קוד מקור",
    "choose_os"                => "אנא בחר את מערכת ההפעלה שלך",
-   "windows_text"             => "אשפי התקנה של Windows לארכיטקטורות 32 ביט וגם 64 ביט ניתנים להורדה על ידי לחיצה על הקישורים מטה",
+   "windows_text"             => "מתקין למערכת חלונות וגרסא ניידת ניתנות להורדה על ידי לחיצה על הקישורים מטה",
    "ubuntu_text"              => "משתמשי Ubuntu (והפצות לינוקס מבוססות Ubuntu אחרות) יכולים להתקין את QupZilla על ידי הרצת פקודות אלו",
    "install_run_command"      => "אפשר להתקין את QupZilla על ידי הרצת פקודה זו",
    "install_qt4_run_command"  => "אפשר להתקין את QupZilla על גבי Qt4 על ידי הרצת פקודה זו",
@@ -57,7 +57,7 @@ QupZilla מחזיק בכל תפקודיות סטנדרטית אשר תוכלו �
    "history_text"             => "הגרסא הראשונה ביותר של QupZilla שוחררה בדצמבר 2010 וזו נכתבה בשפת תכנות Python בעזרת כריכות PyQt4. כעבור מספר גרסאות, QupZilla נכתבה מחדש לחלוטין בשפת תכנות ++C בעזרת Qt Framework. גרסת חלונות של QupZilla הודרה באמצעות MingW, אך בשל בעיה עם Flash, זו מהודרת כעת באמצעות Microsoft Visual C++ Compiler 2008. שחרור ציבורי ראשון היה 1.0.0-b4.<p>
 עד גרסא 2.0, QupZilla השתמשה ב-QtWebKit. QtWebKit הינו מיושן כעת וגרסאות חדשות משתמשות ב-QtWebEngine.",
    "creatortext1"             => "בעלי פרויקט ומפתח ראשי",
-   "creatortext2"             => "סטודנט במוסד FIT CTU",
+   "creatortext2"             => "סטודנט באוניברסיטה Czech Technical University",
    "screens_speeddial"        => "חיוג מהיר",
    "screens_library"          => "ספרייה",
    "screens_preferences"      => "העדפות",

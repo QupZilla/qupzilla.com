@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Ostali Linuksi",
    "source_code"              => "Izvorni kôd",
    "choose_os"                => "Izaberite vaš operativni sistem",
-   "windows_text"             => "Možeti preuzeti 32 bitne i 64 bitne Vindouz instalatere klikom na veze ispod",
+   "windows_text"             => "Instalater i prenosno izdanje za Vindouz možete preuzeti klikom na veze ispod",
    "ubuntu_text"              => "Korisnici Ubuntua i srodnih sistema mogu instalirati Kapzilu pokretanjem ovih naredbi",
    "install_run_command"      => "Možete instalirati Kapzilu ovom naredbom",
    "install_qt4_run_command"  => "Možete instalirati Kapzilu na Kut4 ovom naredbom",
@@ -57,7 +57,7 @@ Kapzila poseduje sve standardne funkcije koje očekujete od veb pregledača. To 
    "history_text"             => "Prvo izdanje Kapzile je bilo u decembru 2010. i napisano u pajtonu sa PyQt4 vezovima. Nakon nekoliko izdanja Kapzila je kompletno prepisana u C++ na Kutovom (Qt) radnom okviru. Izdanje Kapzile za Vindouz je kompilovano MingW-om, ali zbog problema sa flešom sada se kompiluje Majkrosoftovim „Vižual C++ kompajlerom 2008“. Prvo javno izdanje je bilo 1.0.0-b4.<p>
 Do izdanja 2.0 Kapzila je koristila Kutov vebkit. Kutov vebkit (QtWebKit) je sada zastareo pa novija izdanja koriste Kutov vebendžin (QtWebEngine).",
    "creatortext1"             => "Vlasnik projekta i glavni programer",
-   "creatortext2"             => "Student na FIT CTU",
+   "creatortext2"             => "Student na Češkom tehničkom univerzitetu",
    "screens_speeddial"        => "Brzo biranje",
    "screens_library"          => "Biblioteka",
    "screens_preferences"      => "Postavke",

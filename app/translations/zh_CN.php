@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "其它 Linux",
    "source_code"              => "源代码",
    "choose_os"                => "请选择您的操作系统",
-   "windows_text"             => "点击下列链接下载用于32位、64位 Windows 的安装程序",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Ubuntu (及其他基于 Ubuntu 的 linux 发行版) 用户可以通过运行下列命令安装 QupZilla",
    "install_run_command"      => "要安装 QupZilla，请执行如下命令。",
    "install_qt4_run_command"  => "您可以在 Qt4 通过运行此命令安装 QupZilla",
@@ -57,7 +57,7 @@ QupZilla 已经拥有所有你所期望的网页浏览器应有的所有标准�
    "history_text"             => "QupZilla 的最早版本在2010年12月发布，采用 Python 配合 PyQt4 编写。在几个版本之后，QupZilla 被使用 C++ 配合 Qt 框架完全重写。QupZilla 的 Windows 版本曾经采用 MingW 编译，但由于与 Flash 存在一个巨大的问题，它现在采用 Microsoft Visual C++ Compiler 2008 编译。首个公开发行版本是 1.0.0-b4。<p>
 直至版本 2.0，QupZilla 使用 QtWebKit。QtWebKit 目前已经不再使用，新版本使用 QtWebEngine。",
    "creatortext1"             => "项目所有者和主要开发者",
-   "creatortext2"             => "FIT CTU 在校学生",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "快速拨号",
    "screens_library"          => "资料库",
    "screens_preferences"      => "首选项",

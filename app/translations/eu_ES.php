@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Beste Linux-ak",
    "source_code"              => "Iturburu Kodea",
    "choose_os"                => "Mesedez hautatu zure sistema eragilea",
-   "windows_text"             => "32bit eta 64bit-eko Windows ezartzaileak beheko lotura klikatuz jeitsi daitezke",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Ubuntu (eta beste Ubuntu-ohinarriko linux distro) erabiltzaileek QupZilla komando hau ekinez ezarri dezakete",
    "install_run_command"      => "QupZilla agindu hau ekinez ezarri dezakezu",
    "install_qt4_run_command"  => "QupZilla Qt4-n agindu hau ekinez ezarri dezakezu",
@@ -57,7 +57,7 @@ QupZillak web nabigatzaile batengandik itxaron ditzakezun eginkizun estandar guz
    "history_text"             => "QupZilla-ren lehen bertsioa 2010-eko abenduan argitaratu zen eta Python-en idatzia zen PyQt4 liburutegiekin. Bertsio batzuk geroago, QupZilla osorik berridatzi zen C++ kodean Qt Frameworka erabiliz. QupZilla-ren Windows bertsioa MingW erabiliz bildu zen, baina Flash-ekin zegoen arazo handi bategaitik, orain Microsoft Visual C++ Compiler 2008-rekin biltzen da. Lehen argitalpen publikoa 1.0.0-b4 izan zen.<p>
 2.0 bertsiotik aurrera, QupZillak QtWebKit erabiltzen du. QtWebKit orain zaharkituta dago eta bertsio berriek orain QtWebEngine erabiltzen dute.",
    "creatortext1"             => "Egitasmoaren jabea eta garatzaile nagusia",
-   "creatortext2"             => "FIT CTU ikaslea",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Abiarazpen Azkarra",
    "screens_library"          => "Liburutegia",
    "screens_preferences"      => "Hobespenak",

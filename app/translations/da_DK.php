@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Anden Linux",
    "source_code"              => "Kildekode",
    "choose_os"                => "Vælg dit operativsystem",
-   "windows_text"             => "32bit og 64bit installationsprogrammer til Windows, kan hentes via henvisningerne nedenfor",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Brugere af Ubuntu (og andre Ubuntu-baserede linux distributioner) kan installere QupZilla ved at køre disse kommandoer",
    "install_run_command"      => "Du kan installere QupZilla ved at køre denne kommando",
    "install_qt4_run_command"  => "Du kan installere QupZilla på Qt4 ved at køre denne kommando",
@@ -58,7 +58,7 @@ Udover dette, er der som standard aktiveret blokering af reklamer, via et indbyg
    "history_text"             => "Den første version af QupZilla blev frigivet i December 2010 og var skrevet i Python med PyQt4 bindinger. Efter et par versioner, er QupZilla blevet fuldstændig omskrevet i C++ med Qt Frameworket. Windows-versionen af QupZilla blev først oversat med MingW, men på grund af et stort problem med Flash, bliver den nu oversat med Microsoft Visual C++ 2008. Første offentlige udgivelse var 1.0.0-b4. <p>
 Indtil version 2.0, brugte QupZilla QtWebKit. QtWebKit er nu forældet og de nye versioner bruger QtWebEngine.",
    "creatortext1"             => "Projektejer og hovedudvikler",
-   "creatortext2"             => "Studerende ved FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Speed Dial",
    "screens_library"          => "Bibliotek",
    "screens_preferences"      => "Indstillinger",

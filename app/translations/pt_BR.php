@@ -27,7 +27,7 @@ Com o leitor RSS integrado, você tem sempre as últimas novidades de seus sites
    "other_linux"              => "Outro Linux",
    "source_code"              => "Código fonte",
    "choose_os"                => "Por favor escolha seu sistema operacional",
-   "windows_text"             => "Baixe os instaladores das versões para Windows de 32 e 64 bits pelos links abaixo",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Os usuários de Ubuntu (e distribuições derivadas) podem instalar o QupZilla com os comandos:",
    "install_run_command"      => "O QupZilla pode ser instalado com o comando:",
    "install_qt4_run_command"  => "Você pode instalar o QupZilla no Qt4 com o comando:",
@@ -58,7 +58,7 @@ QupZilla has all standard functions you expect from a web browser. It includes b
    "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
 Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
    "creatortext1"             => "Project owner and main developer",
-   "creatortext2"             => "Student at FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Acesso rápido",
    "screens_library"          => "Biblioteca",
    "screens_preferences"      => "Preferências",

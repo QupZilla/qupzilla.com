@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Ostatní Linux",
    "source_code"              => "Zdrojový kód",
    "choose_os"                => "Prosím, zvolte operační systém",
-   "windows_text"             => "Instalátor pro Windows 32bit a 64bit lze stáhnout kliknutím na odkazy níže",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Uživatelé Ubuntu (a ostatních distribucí založených na Ubuntu) mohou nainstalovat QupZillu zadáním těchto příkazů",
    "install_run_command"      => "QupZillu můžete nainstalovat zadáním tohoto příkazu",
    "install_qt4_run_command"  => "QupZillu s Qt4 můžete nainstalovat zadáním tohoto příkazu",
@@ -57,7 +57,7 @@ QupZilla has all standard functions you expect from a web browser. It includes b
    "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
 Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
    "creatortext1"             => "Vlastník projektu a hlavní vývojář",
-   "creatortext2"             => "Student FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Rychlá volba",
    "screens_library"          => "Knihovna",
    "screens_preferences"      => "Předvolby",

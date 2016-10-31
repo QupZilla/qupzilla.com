@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Ostali Linux",
    "source_code"              => "Izvorni kôd",
    "choose_os"                => "Odaberite svoj operativni sustav",
-   "windows_text"             => "32-bitni i 64-bitni Windows instalcijski programi mogu se preuzeti klikom na poveznice ispod",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Ubuntu (i ostale Ubuntu temeljene linux distribucije) korisnici mogu instalirati QupZilla pokretanjem ovih naredbi",
    "install_run_command"      => "Qupzillu možete instalirati  pokretanjem ovih naredbi",
    "install_qt4_run_command"  => "Možete inastalirati Qupzillu na Qt4 pokretanjem ove naredbe",
@@ -57,7 +57,7 @@ QupZilla ima sve osnovne funkcije koje očekujete od web preglednika. Uključuje
    "history_text"             => "Prva inačica QupZille je objavljena u prosincu 2010 i napisana je u Pythonu s PyQt4. Nakon nekoliko inačica, QupZilla je iznova napisana u C++ s Qt okvirom. Windows inačica QupZille je kompilirana koristeći MingW, ali uslijed velikih problema s Flashom, sada je kompilirana s Microsoft Visual C++ Kompajlerom 2008. Prvo javno izdanje je 1.0.0-b4.<p>
 Do inačice 2.0, QupZilla je koristila QtWebKit. QtWebKit je sad zastario i nove inačice koriste QtWebEngine.",
    "creatortext1"             => "Vlasnik projekta i glavni razvijatelj",
-   "creatortext2"             => "Student na FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Brzo biranje",
    "screens_library"          => "Knjižnica",
    "screens_preferences"      => "Osobitosti",

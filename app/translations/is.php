@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Aðrar Linux dreifingar",
    "source_code"              => "Upprunakóði",
    "choose_os"                => "Veldu stýrikerfið þitt",
-   "windows_text"             => "Hægt er að sækja 32bita og 64bita uppsetningaforrit fyrir Windows með því að smella á tenglana hér fyrir neðan",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Notendur Ubuntu (og annarra dreifinga sem byggjast á Ubuntu) geta sett upp QupZilla með því að keyra þessar skipanir",
    "install_run_command"      => "Þú getur sett upp QupZilla með því að keyra þessa skipun",
    "install_qt4_run_command"  => "Þú getur sett upp QupZilla á Qt4 með því að keyra þessa skipun",
@@ -57,7 +57,7 @@ QupZilla er með alla staðlaða eiginleika sem búast má við af nútímalegum
    "history_text"             => "Allra fyrsta útgáfan af QupZilla var gefin út í desember árið 2010 og var hún skrifuð í Python með PyQt4 bindingum. Eftir nokkrar útgáfur var QupZilla endurskrifað frá grunni í C++ með Qt Framework kerfinu. Windows-útgáfan af QupZilla var þá vistþýdd með MingW, en sökum vandamála með Flash er hún núna vistþýdd með Microsoft Visual C++ Compiler 2008. Fyrsta almenna opinbera útgáfan var 1.0.0-b4.<p>
 Fram að útgáfu 2.0, notaðist QupZilla við QtWebKit. QtWebKit er núna úrelt og nota nýrri útgáfur QtWebEngine.",
    "creatortext1"             => "Eigandi verkefnisins og aðalhönnuður",
-   "creatortext2"             => "Stúdent við FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Hraðval",
    "screens_library"          => "Aðgerðasafn",
    "screens_preferences"      => "Kjörstillingar",

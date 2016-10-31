@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Otro Linux",
    "source_code"              => "Código Fuente",
    "choose_os"                => "Por favor, elija su sistema operativo",
-   "windows_text"             => "Los instaladores de 32bit y 64 bit de Windows pueden ser descargados haciendo clic en los enlaces de abajo",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Los usuarios de Ubuntu ( y de otras distribuciones Linux basadas en Ubuntu) pueden instalar QupZilla ejecutando estos comandos",
    "install_run_command"      => "Puede instalar QupZilla ejecutando este comando",
    "install_qt4_run_command"  => "Puede instalar QupZilla en Qt4 ejecutando este comando",
@@ -57,7 +57,7 @@ QupZilla tiene todas las funciones estándar que usted espera de un navegador we
    "history_text"             => "La primera versión de QupZilla se ha lanzado en Diciembre de 2010 y estaba escrita en Python con PyQt4 bindings. Después de algunas versiones, QupZilla ha sido completamente reescrito en C++ con Qt Framework. La versión Windows de QupZilla fue compilada usando MingW, pero debido un enorme problema con Flash, ahora se compila con Microsoft Visual C++ Compiler 2008. La primera versión pública fue 1.0.0-b4.<p>
 Hasta la versión 2.0, QupZilla estaba utilizando QtWebKit. QtWebKit está en desuso y nuevas versiones están usando QtWebEngine.",
    "creatortext1"             => "Propietario del projecto y desarrollador principal",
-   "creatortext2"             => "Estudiante en FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Marcado Rápido",
    "screens_library"          => "Biblioteca",
    "screens_preferences"      => "Preferencias",

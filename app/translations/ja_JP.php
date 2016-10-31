@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Other Linux",
    "source_code"              => "ソースコード",
    "choose_os"                => "お使いのOSを選択してください",
-   "windows_text"             => "32bitおよび64bitのWindows向けインストーラーは以下のリンクからダウンロードできます",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Ubuntu(とその他のUbunutuベースのLinuxディストリビューション)ユーザーはこれらのコマンドでQupZillaをインストールできます。",
    "install_run_command"      => "このコマンドを実行することでQupZillaがインストールできます",
    "install_qt4_run_command"  => "このコマンドを実行するとQt4でQupZillaをインストールできます",
@@ -57,7 +57,7 @@ QupZilla has all standard functions you expect from a web browser. It includes b
    "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
 Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
    "creatortext1"             => "Project owner and main developer",
-   "creatortext2"             => "Student at FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Speed Dial",
    "screens_library"          => "ライブラリ",
    "screens_preferences"      => "設定",

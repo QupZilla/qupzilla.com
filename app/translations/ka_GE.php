@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Linux-ის სხვა დისტრიბუცია",
    "source_code"              => "წყაროს კოდი",
    "choose_os"                => "გთხოვთ აირჩიეთ თქვენი ოპერაციული სისტემა",
-   "windows_text"             => "Windows-ისთვის 32 და 64 ბიტიანი ინსტალატორების ჩამოტვირთვა შეგიძლიათ ქვემოთ მოცემულ ბმულებზე დაწკაპუნებით",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Ubuntu-ს (და Ubuntu-ზე დაფუძნებული სხვა ლინუქს დისტროების) მომხმარებლებს QupZilla-ს დაყენება შეგიძლიათ ამ ბრძანებების გაშვებით ",
    "install_run_command"      => "You can install QupZilla by running this command",
    "install_qt4_run_command"  => "Qt4-ზე QupZilla-ს დაყენება შეგიძლიათ ამ ბრძანების გაშვებით",
@@ -57,7 +57,7 @@ QupZilla has all standard functions you expect from a web browser. It includes b
    "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
 Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
    "creatortext1"             => "პროექტის მფლობელი და მთავარი დეველოპერი",
-   "creatortext2"             => "FIT CTU-ს სტუდენტი ",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "სწრაფი გამოძახება",
    "screens_library"          => "ბიბლიოთეკა",
    "screens_preferences"      => "პარამეტრები",

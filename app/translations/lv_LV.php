@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Citi „Linux“",
    "source_code"              => "Pirmkods",
    "choose_os"                => "Lūdzu, izvēlies savu operētājsistēmu",
-   "windows_text"             => "32 bitu un 64 bitu „Windows“ uzstādīšanas datnes iespējams lejupielādēt, noklikšķinot uz zemāk esošajām saitēm",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "„Ubuntu“ (un citu uz „Ubuntu“ balstītu „Linux“ distributīvu) lietotāji pārlūku „QupZilla“ var ieinstalēt, palaižot šīs komandas",
    "install_run_command"      => "„QupZilla“ vari uzstādīt, palaižot šo komandu",
    "install_qt4_run_command"  => "„QupZillu“ ar Qt4 vari uzstādīt, palaižot šo komandu",
@@ -57,7 +57,7 @@ $LANG = array(
    "history_text"             => "Pati pirmā „QupZilla“ versija tika izlaista 2010. gada decembrī un bija rakstīt „Python“ valodā ar „PyQt4“ saistījumiem. Pēc pāris versijām „QupZilla“ tika pilnībā pārrakstīts C++ valodā ar „Qt“ satvaru. „QupZilla“ „Windows“ versija tika kompilēta, izmantojot „MingW“, tomēr lielu problēmu ar „Flash“ dēļ šobrīd tas tiek kompilēts ar „Microsoft Visual C++ Compiler 2008“. Pirmā publiskā versija bija 1.0.0-b4.<p>
 Līdz pat 2.0 versijai „Qupzilla“ izmantoja „QtWebKit“, kas šobrīd ir aizstāts ar „QtWebEngine“.",
    "creatortext1"             => "Projekta īpašnieks un galvenais izstrādātājs",
-   "creatortext2"             => "FIT CTU students",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Ātrais zvans",
    "screens_library"          => "Bibliotēka",
    "screens_preferences"      => "Iestatījumi",

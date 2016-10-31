@@ -26,7 +26,7 @@ $LANG = array(
    "other_linux"              => "Linux Lainnya",
    "source_code"              => "Kode Sumber",
    "choose_os"                => "Silakan pilih sistem operasi anda",
-   "windows_text"             => "Windows instalatur 32bit dan 64bit dapat diunduh dengan mengklik tautan berikut",
+   "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",
    "ubuntu_text"              => "Pengguna Ubuntu (dan distro linux berbasis Ubuntu lainnya) dapat memasang QupZilla dengan menjalankan perintah berikut",
    "install_run_command"      => "Anda dapat memasang QupZilla dengan menjalankan perintah ini",
    "install_qt4_run_command"  => "Anda dapat memasang QupZilla dan Qt4 dengan menjalankan perintah ini",
@@ -57,7 +57,7 @@ QupZilla memiliki semua fungsi standar yang ditawarkan dari peramban web. Fitur 
    "history_text"             => "The very first version of QupZilla has been released in December 2010 and it was written in Python with PyQt4 bindings. After a few versions, QupZilla has been completely rewritten in C++ with the Qt Framework. The Windows version of QupZilla was compiled using MingW, but due to a huge problem with Flash, it is now compiled with Microsoft Visual C++ Compiler 2008. First public release was 1.0.0-b4.<p>
 Until version 2.0, QupZilla was using QtWebKit. QtWebKit is now deprecated and new versions are using QtWebEngine.",
    "creatortext1"             => "Pemilik proyek dan pengembang utama",
-   "creatortext2"             => "Murid di FIT CTU",
+   "creatortext2"             => "Student at Czech Technical University",
    "screens_speeddial"        => "Panggilan Cepat",
    "screens_library"          => "Pustaka",
    "screens_preferences"      => "Preferensi",
