@@ -176,7 +176,7 @@ switch ($short_lang) {
 }
 
 switch ($iso639-3_lang) {
-     case "nqo":
+    case "nqo":
         $lang_id = "nqo";
         $lang_direction = "RTL";
         break;
