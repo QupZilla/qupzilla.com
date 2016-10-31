@@ -114,6 +114,10 @@ switch ($short_lang) {
         $lang_id = "ka_GE";
         break;
 
+    case "ko":
+        $lang_id = "ko_KR";
+        break;
+
     case "lt":
         $lang_id = "lt";
         break;
@@ -160,10 +164,6 @@ switch ($short_lang) {
 
     case "uk":
         $lang_id = "uk_UA";
-        break;
-
-    case "yue":
-        $lang_id = "zh_HK";
         break;
 
     case "zh":
@@ -215,6 +215,7 @@ switch ($long_lang) {
         $lang_id = "zh_CN";
         break;
 
+    case "yue":
     case "zh-hk":
     case "zh-mo":
         $lang_id = "zh_HK";
