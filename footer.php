@@ -20,7 +20,7 @@
       <nav>
         <ul>
         <li><a href="?lang=ar">العربية</a></li>
-        <li><a href="?lang=zh-cn">中文</a></li>
+        <li><a href="?lang=zh">中文</a></li>
         <li><a href="?lang=da">Dansk</a></li>
         <li><a href="?lang=fr">Français</a></li>
         <li><a href="?lang=el">Ελληνικά</a></li>
