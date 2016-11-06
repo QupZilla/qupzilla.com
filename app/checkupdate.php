@@ -6,6 +6,9 @@ echo "Version:" . $qupzilla_version;
 if (!isset($_GET["v"]))
     exit;
 
+if (!$con)
+    exit;
+
 // Save user's QupZilla version
 $ip = getRealIP();
 $version = $_GET["v"];

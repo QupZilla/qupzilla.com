@@ -2,9 +2,11 @@
 require_once('bootstrap.php');
 
 // Save download info
-$stm = mysqli_prepare($con, "UPDATE downloads SET count=count+1, last_download=now() WHERE platform=?");
-mysqli_stmt_bind_param($stm, 's', $query);
-mysqli_stmt_execute($stm);
+if ($con) {
+    $stm = mysqli_prepare($con, "UPDATE downloads SET count=count+1, last_download=now() WHERE platform=?");
+    mysqli_stmt_bind_param($stm, 's', $query);
+    mysqli_stmt_execute($stm);
+}
 
 // Redirect to download url
 switch ($query)
