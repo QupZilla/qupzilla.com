@@ -121,8 +121,6 @@
             <p class="title">Ubuntu</p>
             <p><?php echo $LANG["ubuntu_text"]; ?></p>
               <pre style="margin-left: 200px;">
-      sudo add-apt-repository ppa:nowrep/qupzilla
-      sudo apt-get update
       sudo apt-get install qupzilla
               </pre>
         </div>
