@@ -42,7 +42,7 @@ switch ($query)
     break;
 
     case "haiku":
-        header("Location:https://depot.haiku-os.org/__pkgdownload/qupzilla_x86/haikuports/1/8/6/-/1/x86_gcc2/package.hpkg");
+        header("Location:https://packages.haiku-os.org/haikuports/master/repo/x86_gcc2/current/packages/qupzilla_x86-1.8.6-1-x86_gcc2.hpkg");
     break;
 
     case "mac":
