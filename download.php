@@ -205,9 +205,8 @@
 
         <div class="down-box" id="linux">
             <p class="title"><?php echo $LANG["other_linux"]; ?></p>
-            <p><?php echo $LANG["tarballs_text"]; ?> (.tar.gz) <?php echo $LANG["can_be_downloaded"]; ?></p>
-              <a href="startdownload?linux32" target="blank">32bit tarball</a> |
-              <a href="startdownload?linux64" target="blank">64bit tarball</a>
+            <p><?php echo $LANG["appimage_text"]; ?> <?php echo $LANG["can_be_downloaded"]; ?></p>
+              <a href="startdownload?appimage" target="blank">QupZilla AppImage (64bit)</a>
         </div>
 
         <div class="down-box" id="source">

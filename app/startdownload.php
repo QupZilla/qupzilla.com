@@ -37,6 +37,10 @@ switch ($query)
         header("Location:/uploads/qupzilla_1.8.9_amd64.tar.gz");
     break;
 
+    case "appimage":
+        header("Location:/uploads/QupZilla-2.1.0.AppImage");
+    break;
+
     case "os2":
         header("Location:/uploads/qupzilla-1.8.9-os2.7z");
     break;
