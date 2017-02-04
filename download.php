@@ -112,9 +112,10 @@
 
         <div class="down-box" id="debian">
             <p class="title">Debian</p>
-            <p><?php echo $LANG["packages_text"]; ?> (.deb) <?php echo $LANG["can_be_downloaded"]; ?></p>
-              <a href="startdownload?debian32" target="blank">32bit Debian package</a> |
-              <a href="startdownload?debian64" target="blank">64bit Debian package</a>
+            <p><?php echo $LANG["install_run_command"]; ?></p>
+              <pre style="margin-left: 340px;">
+      sudo apt-get install qupzilla
+              </pre>
         </div>
 
         <div class="down-box" id="ubuntu">
@@ -138,10 +139,6 @@
             <p><?php echo $LANG["install_run_command"]; ?></p>
               <pre style="margin-left: 340px;">
       pacman -S qupzilla
-              </pre>
-            <p><?php echo $LANG["install_qt4_run_command"]; ?></p>
-              <pre style="margin-left: 340px;">
-      pacman -S qupzilla-qt4
               </pre>
         </div>
 
@@ -188,7 +185,7 @@
             <p class="title">Mac OS X</p>
             <p><?php echo $LANG["qupzilla_for_text"]; ?> Mac OS X <?php echo $LANG["can_be_downloaded"]; ?></p>
               <a href="startdownload?mac" target="blank">Mac OS X image (.dmg)</a>
-              <pre style="margin-left: 340px;">
+              <pre style="margin-left: 240px;">
       Homebrew: brew cask install qupzilla
               </pre>
         </div>
