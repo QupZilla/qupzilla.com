@@ -19,7 +19,7 @@
      <div class="languages">
       <nav>
         <ul>
-        <li><a href="?lang=es">Castellano</a></li>
+        <li><a href="?lang=es">Español</a></li>
         <li><a href="?lang=ca">Català</a></li>
         <li><a href="?lang=cs">Čeština</a></li>
         <li><a href="?lang=da">Dansk</a></li>
