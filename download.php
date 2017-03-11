@@ -153,7 +153,7 @@
         <div class="down-box" id="suse">
             <p class="title">openSUSE</p>
             <p><?php echo $LANG["packages_text"]; ?> (.rpm) <?php echo $LANG["can_be_downloaded"]; ?></p>
-             <iframe id="suse-iframe" width="900" height="450" src="http://software.opensuse.org/download/package.iframe?project=KDE:Extra&amp;package=qupzilla"> </iframe>
+             <iframe id="suse-iframe" width="900" height="450" src="https://software.opensuse.org/download/package.iframe?project=KDE:Extra&amp;package=qupzilla"> </iframe>
         </div>
 
         <div class="down-box" id="fedora">
