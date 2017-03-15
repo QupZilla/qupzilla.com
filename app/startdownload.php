@@ -38,7 +38,7 @@ switch ($query)
     break;
 
     case "appimage":
-        header("Location:/uploads/QupZilla-2.1.1.AppImage");
+        header("Location:/uploads/QupZilla-2.1.2.AppImage");
     break;
 
     case "os2":
