@@ -100,6 +100,13 @@
             <p class="os-text"><?php echo $LANG["source_code"]; ?></p>
           </div>
         </div>
+        <div class="os-wrapper">
+          <div class="grid_7">
+            <a style="cursor:pointer" href="#buga" >
+            <img class="os-image" src="https://d1099yxbcpf3k9.cloudfront.net/theme/logo/thumbnail/40db4deee2905f6d9e44dbecba752185"></a>
+            <p class="os-text">Buga (A OpenSUSE OS made with SUSEStudio)</p>
+          </div>
+         </div>
       </div>
 
       <div class="rowd-2 boxes">
@@ -209,6 +216,13 @@
               <a href="startdownload?appimage" target="blank">QupZilla AppImage (64bit)</a>
         </div>
 
+        <div class="down-box" id="buga">
+            <p class="title">Windows</p>
+            <p><?php echo $LANG["windows_text"]; ?></p>
+              <a href="http://software.opensuse.org/ymp/KDE:Extra/openSUSE_13.2/qupzilla.ymp" target="blank">Buga (OpenSUSE 13.2) One-Click Installer</a> |
+              <a href="http://download.opensuse.org/repositories/KDE:/Extra/openSUSE_13.2/src/qupzilla-1.8.9-41.28.src.rpm" target="blank">Grab binary package directly (.rpm)</a>
+        </div>
+        
         <div class="down-box" id="source">
             <p class="title"><?php echo $LANG["source_code"]; ?></p>
             <p><?php echo $LANG["source_text"]; ?></p>
