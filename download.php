@@ -119,7 +119,7 @@
         </div>
 
         <div class="down-box" id="ubuntu">
-            <p class="title">Ubuntu</p>
+            <p class="title">Ubuntu (based)</p>
             <p><?php echo $LANG["ubuntu_text"]; ?></p>
               <pre style="margin-left: 200px;">
       sudo apt-get install qupzilla
