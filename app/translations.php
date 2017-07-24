@@ -93,7 +93,11 @@ switch ($short_lang) {
     case "hr":
         $lang_id = "hr_HR";
         break;
-
+        
+    case "hu":
+        $lang_id = "hu_HU";
+        break;
+        
     case "id":
         $lang_id = "id_ID";
         break;
