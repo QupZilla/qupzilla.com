@@ -31,6 +31,7 @@
         </ul>
         <ul>
         <li><a href="?lang=hr">Hrvatski</a></li>
+        <li><a href="?lang=hu">Magyar</a></li>
         <li><a href="?lang=is">Íslenska</a></li>
         <li><a href="?lang=it">Italiano</a></li>
         <li><a href="?lang=lt">Lietuvių</a></li>
