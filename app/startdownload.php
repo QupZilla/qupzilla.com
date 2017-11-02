@@ -11,14 +11,17 @@ if ($con) {
 // Redirect to download url
 switch ($query)
 {
-    case "windows32":
-    case "windows64":
     case "windows":
-        header("Location:/uploads/qupzilla212.exe");
+    case "windows32":
+        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.1/QupZilla.2.2.1.Installer.exe");
+    break;
+
+    case "windows64":
+        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.1/QupZilla.2.2.1.x64.Installer.exe");
     break;
 
     case "windows_portable":
-        header("Location:/uploads/qupzilla212_portable.zip");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.1/QupZilla.2.2.1.Portable.Installer.exe");
     break;
 
     case "debian32":
@@ -38,7 +41,7 @@ switch ($query)
     break;
 
     case "appimage":
-        header("Location:/uploads/QupZilla-2.1.2.AppImage");
+        header("Location:/uploads/QupZilla-2.2.1.AppImage");
     break;
 
     case "os2":
@@ -58,7 +61,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v2.1.2");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v2.2.1");
     break;
 
     default:

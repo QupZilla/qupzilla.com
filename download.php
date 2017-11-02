@@ -106,7 +106,8 @@
         <div class="down-box" id="windows">
             <p class="title">Windows</p>
             <p><?php echo $LANG["windows_text"]; ?></p>
-              <a href="startdownload?windows" target="blank">Windows Installer</a> |
+              <a href="startdownload?windows" target="blank">Windows Installer x86</a> |
+              <a href="startdownload?windows64" target="blank">Windows Installer x64</a> |
               <a href="startdownload?windows_portable" target="blank">Portable Edition</a>
         </div>
 
