@@ -33,4 +33,12 @@ function getRealIp() {
 
      return $ipaddress == '' ? 'UNKNOWN' : $ipaddress;
 }
+
+function getDownloadSha256($download) {
+    $filename = "../" . $qupzilla_downloads[$download];
+    if (!file_exists($filename)) {
+        return "";
+    }
+    return hash_file("sha256", $filename);
+}
 ?>

@@ -186,6 +186,9 @@
             <p class="title">Mac OS X</p>
             <p><?php echo $LANG["qupzilla_for_text"]; ?> Mac OS X <?php echo $LANG["can_be_downloaded"]; ?></p>
               <a href="startdownload?mac" target="blank">Mac OS X image (.dmg)</a>
+              <pre style="margin-left:120px;margin-top:15px;">
+    sha256: <?php echo getDownloadSha256("mac"); ?>
+              </pre>
               <pre style="margin-left: 240px;">
       Homebrew: brew cask install qupzilla
               </pre>
@@ -195,6 +198,9 @@
             <p class="title">OS/2</p>
             <p><?php echo $LANG["qupzilla_for_text"]; ?> OS/2 <?php echo $LANG["can_be_downloaded"]; ?></p>
               <a href="startdownload?os2" target="blank">OS/2 package</a>
+              <pre style="margin-left:120px;margin-top:15px;">
+    sha256: <?php echo getDownloadSha256("os2"); ?>
+              </pre>
         </div>
 
         <div class="down-box" id="haiku">
@@ -208,6 +214,9 @@
             <p class="title"><?php echo $LANG["other_linux"]; ?></p>
             <p><?php echo $LANG["appimage_text"]; ?> <?php echo $LANG["can_be_downloaded"]; ?></p>
               <a href="startdownload?appimage" target="blank">QupZilla AppImage (64bit)</a>
+              <pre style="margin-left:120px;margin-top:15px;">
+    sha256: <?php echo getDownloadSha256("appimage"); ?>
+              </pre>
         </div>
 
         <div class="down-box" id="source">
