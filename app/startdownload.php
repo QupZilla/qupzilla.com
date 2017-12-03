@@ -41,11 +41,11 @@ switch ($query)
     break;
 
     case "appimage":
-        header("Location:/uploads/QupZilla-2.2.1.AppImage");
+        header("Location:" . $qupzilla_downloads["appimage"]);
     break;
 
     case "os2":
-        header("Location:/uploads/qupzilla-1.8.9-os2.7z");
+        header("Location:" . $qupzilla_downloads["os2"]);
     break;
 
     case "haiku":
@@ -53,7 +53,7 @@ switch ($query)
     break;
 
     case "mac":
-        header("Location:/uploads/QupZilla-2.2.1.dmg");
+        header("Location:" . $qupzilla_downloads["mac"]);
     break;
 
     case "viewsource":
@@ -61,7 +61,7 @@ switch ($query)
     break;
 
     case "source":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v2.2.1");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/tag/v" . $qupzilla_version);
     break;
 
     default:

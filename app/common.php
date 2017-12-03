@@ -2,6 +2,13 @@
 // Globals
 $qupzilla_version = "2.2.1";
 
+// Files
+$qupzilla_downloads = [
+    "appimage" => "/uploads/QupZilla-2.2.1.AppImage",
+    "mac" => "/uploads/QupZilla-2.2.1.dmg",
+    "os2" => "/uploads/qupzilla-1.8.9-os2.7z"
+];
+
 // Functions
 function getRealIp() {
      $ipaddress = '';
