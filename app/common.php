@@ -35,7 +35,12 @@ function getRealIp() {
 }
 
 function getDownloadSha256($download) {
-    $filename = "../" . $qupzilla_downloads[$download];
+    global $qupzilla_downloads;
+    $filename = $qupzilla_downloads[$download];
+    if ($filename == "") {
+        return "";
+    }
+    $filename = "../" . $filename;
     if (!file_exists($filename)) {
         return "";
     }
