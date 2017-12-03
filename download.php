@@ -114,7 +114,7 @@
         <div class="down-box" id="debian">
             <p class="title">Debian</p>
             <p><?php echo $LANG["install_run_command"]; ?></p>
-              <pre style="margin-left: 340px;">
+              <pre style="margin-left: 290px;">
       sudo apt-get install qupzilla
               </pre>
         </div>
@@ -122,7 +122,7 @@
         <div class="down-box" id="ubuntu">
             <p class="title">Ubuntu</p>
             <p><?php echo $LANG["ubuntu_text"]; ?></p>
-              <pre style="margin-left: 200px;">
+              <pre style="margin-left: 280px;">
       sudo apt-get install qupzilla
               </pre>
         </div>
