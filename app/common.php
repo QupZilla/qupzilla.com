@@ -1,6 +1,6 @@
 <?php
 // Globals
-$qupzilla_version = "2.2.1";
+$qupzilla_version = "2.2.2";
 
 // Files
 $qupzilla_downloads = [

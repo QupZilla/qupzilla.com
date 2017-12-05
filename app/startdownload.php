@@ -13,15 +13,15 @@ switch ($query)
 {
     case "windows":
     case "windows32":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.1/QupZilla.2.2.1.Installer.exe");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.2/QupZilla.2.2.2.Installer.exe");
     break;
 
     case "windows64":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.1/QupZilla.2.2.1.x64.Installer.exe");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.2/QupZilla.2.2.2.x64.Installer.exe");
     break;
 
     case "windows_portable":
-        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.1/QupZilla.2.2.1.Portable.Installer.exe");
+        header("Location:https://github.com/QupZilla/qupzilla/releases/download/v2.2.2/QupZilla.2.2.2.Portable.Installer.exe");
     break;
 
     case "debian32":
