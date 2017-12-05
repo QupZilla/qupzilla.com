@@ -44,6 +44,16 @@ function getDownloadSha256($download) {
     if (!file_exists($filename)) {
         return "";
     }
-    return hash_file("sha256", $filename);
+    $hash_filename = $filename . ".sha256";
+    if (file_exists($hash_filename)) {
+        return file_get_contents($hash_filename);
+    }
+    $hash = hash_file("sha256", $filename);
+    $f = fopen($hash_filename, "w");
+    if ($f) {
+        fwrite($f, $hash);
+        fclose($f);
+    }
+    return $hash;
 }
 ?>
