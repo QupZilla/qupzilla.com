@@ -68,7 +68,7 @@
           <div class="grid_7">
             <a style="cursor:pointer" href="#linux" >
             <img class="os-image" src="images/os/linux.png"></a>
-            <p class="os-text"><?php echo $LANG["other_linux"]; ?></p>
+            <p class="os-text">Linux AppImage</p>
           </div>
         </div>
 
@@ -211,7 +211,7 @@
         </div>
 
         <div class="down-box" id="linux">
-            <p class="title"><?php echo $LANG["other_linux"]; ?></p>
+            <p class="title">Linux AppImage</p>
             <p><?php echo $LANG["appimage_text"]; ?> <?php echo $LANG["can_be_downloaded"]; ?></p>
               <a href="startdownload?appimage" target="blank">QupZilla AppImage (64bit)</a>
               <pre style="margin-left:100px;margin-top:15px;">
