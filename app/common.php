@@ -5,7 +5,7 @@ $qupzilla_version = "2.2.3";
 // Files
 $qupzilla_downloads = [
     "appimage" => "/uploads/QupZilla-2.2.3.AppImage",
-    "mac" => "/uploads/QupZilla-2.2.2.dmg",
+    "mac" => "/uploads/QupZilla-2.2.3.dmg",
     "os2" => "/uploads/qupzilla-1.8.9-os2.7z"
 ];
 
