@@ -38,6 +38,18 @@
     });
   });
 </script>
+<span id="donate-ethereum"></span>
+<script>
+  $(function() {
+    $('#donate-ethereum').coinTipper({
+      type: 'donate',
+      currency: 'ethereum',
+      iso: 'ETH',
+      address: '0xf4c792d3934Be2fe2ab31BeC13cFF800190DD5Bc',
+      label: 'QupZilla'
+    });
+  });
+</script>
             </p>
 
           </div>
