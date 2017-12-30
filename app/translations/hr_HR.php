@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Razvojne vijesti",
    "dev_donatehelp"           => "kako bi pomogli u razvoju",
    "feed_loading"             => "Učitavanje...",
-   "other_linux"              => "Ostali Linux",
    "source_code"              => "Izvorni kôd",
    "choose_os"                => "Odaberite svoj operativni sustav",
    "windows_text"             => "Windows instalacijski program i portabl inačica mogu se preuzwti klikom na poveznice ispod",

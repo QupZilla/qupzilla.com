@@ -24,7 +24,6 @@ Con il lettore di fonti integrato, puoi rimanere aggiornato sui tuoi siti prefer
    "devnews_header"           => "Notizie sullo sviluppo",
    "dev_donatehelp"           => "per aiutare con lo sviluppo",
    "feed_loading"             => "Caricamento...",
-   "other_linux"              => "Altre distribuzioni Linux",
    "source_code"              => "Codice sorgente",
    "choose_os"                => "Scegli il tuo sistema operativo",
    "windows_text"             => "L'installer per Windows e la versione portable possono essere scaricate cliccando sui link qui sotto ",

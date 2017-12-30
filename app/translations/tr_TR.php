@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Geliştirme Haberleri",
    "dev_donatehelp"           => "Geliştirilmesine yardımcı olmak",
    "feed_loading"             => "Yükleniyor...",
-   "other_linux"              => "Diğer Linux",
    "source_code"              => "Kaynak Kodu",
    "choose_os"                => "Lütfen işletim sisteminizi seçin",
    "windows_text"             => "Windows yükleyici ve taşınabilir sürümü aşağıdaki linklere tıklayarak indirebilirsiniz",

@@ -24,7 +24,6 @@ Com o leitor RSS integrado, você tem sempre as últimas novidades de seus sites
    "devnews_header"           => "Notícias de desenvolvimento",
    "dev_donatehelp"           => "to help with development",
    "feed_loading"             => "Carregando...",
-   "other_linux"              => "Outro Linux",
    "source_code"              => "Código fonte",
    "choose_os"                => "Por favor escolha seu sistema operacional",
    "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",

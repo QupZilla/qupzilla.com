@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Garapen Berriak",
    "dev_donatehelp"           => "garapenean laguntzeko",
    "feed_loading"             => "Gertatzen...",
-   "other_linux"              => "Beste Linux-ak",
    "source_code"              => "Iturburu Kodea",
    "choose_os"                => "Mesedez hautatu zure sistema eragilea",
    "windows_text"             => "Windows ezartzailea eta bertsio eramangarria azpiko loturak klikatuz jeitsi daitezke",

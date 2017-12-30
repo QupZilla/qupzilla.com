@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Fréttir af þróun",
    "dev_donatehelp"           => "til að hjálpa við hugbúnaðargerðina",
    "feed_loading"             => "Hleð inn...",
-   "other_linux"              => "Aðrar Linux dreifingar",
    "source_code"              => "Upprunakóði",
    "choose_os"                => "Veldu stýrikerfið þitt",
    "windows_text"             => "Uppsetningaforrit fyrir Windows og einnig útgáfu fyrir minnislykla má sækja með því að smella á tenglana hér fyrir neðan",

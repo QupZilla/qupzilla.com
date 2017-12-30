@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Nouvelles du développement",
    "dev_donatehelp"           => "Aider au développement",
    "feed_loading"             => "Chargement...",
-   "other_linux"              => "Autres distributions linux",
    "source_code"              => "Code Source",
    "choose_os"                => "Choisissez votre système d'exploitation",
    "windows_text"             => "L’installateur Windows et la version portable peuvent être téléchargés en cliquant sur les liens ci-dessous.",

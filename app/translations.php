@@ -94,6 +94,10 @@ switch ($short_lang) {
         $lang_id = "hr_HR";
         break;
 
+    case "hu":
+        $lang_id = "hu_HU";
+        break;
+
     case "id":
         $lang_id = "id_ID";
         break;
@@ -124,6 +128,10 @@ switch ($short_lang) {
 
     case "lv":
         $lang_id = "lv_LV";
+        break;
+
+    case "nb":
+        $lang_id = "nb_NO";
         break;
 
     case "nl":
@@ -160,6 +168,10 @@ switch ($short_lang) {
 
     case "sr":
         $lang_id = "sr";
+        break;
+
+    case "sl":
+        $lang_id = "sl_SI";
         break;
 
     case "uk":

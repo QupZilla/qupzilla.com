@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "განვითარების სიახლეები",
    "dev_donatehelp"           => "დეველოპმენტში დასახმარებლად",
    "feed_loading"             => "იტვირთება...",
-   "other_linux"              => "Linux-ის სხვა დისტრიბუცია",
    "source_code"              => "წყაროს კოდი",
    "choose_os"                => "გთხოვთ აირჩიეთ თქვენი ოპერაციული სისტემა",
    "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",

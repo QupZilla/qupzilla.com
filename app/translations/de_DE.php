@@ -24,7 +24,6 @@ Mit dem integrierten RSS-Reader bleiben Sie immer auf dem neuesten Stand Ihrer I
    "devnews_header"           => "Aktuelles",
    "dev_donatehelp"           => "für die Weiterentwicklung",
    "feed_loading"             => "Wird geladen …",
-   "other_linux"              => "Weitere",
    "source_code"              => "Quellcode",
    "choose_os"                => "Bitte wählen Sie Ihr Betriebssystem aus",
    "windows_text"             => "Windows Installer und Portabel-Version kann beim Link hierunten heruntergeladen werden ",

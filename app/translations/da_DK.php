@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Udviklingsnyheder",
    "dev_donatehelp"           => "for at hjælpe udviklingen",
    "feed_loading"             => "Indlæser...",
-   "other_linux"              => "Anden Linux",
    "source_code"              => "Kildekode",
    "choose_os"                => "Vælg dit styresystem",
    "windows_text"             => "Windows-installationsprogram og portable version kan downloades ved at klikke på linket nedenfor.",

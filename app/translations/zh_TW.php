@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "開發最新消息",
    "dev_donatehelp"           => "QupZilla",
    "feed_loading"             => "讀取中…",
-   "other_linux"              => "其他的 Linux",
    "source_code"              => "原始碼",
    "choose_os"                => "選擇您所使用的作業系統",
    "windows_text"             => "可以點擊以下連結來下載 Windows 安裝版及免安裝版：",

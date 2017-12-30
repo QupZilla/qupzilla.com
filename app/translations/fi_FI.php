@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Kehitysuutiset",
    "dev_donatehelp"           => "to help with development",
    "feed_loading"             => "Ladataan…",
-   "other_linux"              => "Muu Linux",
    "source_code"              => "Lähdekoodi",
    "choose_os"                => "Valitse käyttöjärjestelmäsi",
    "windows_text"             => "Windows-asennusohjelman ja kannettava ohjelman voi ladata painamalla alhaalla olevia linkkejä",

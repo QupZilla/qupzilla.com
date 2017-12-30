@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Notícies sobre el desenvolupament",
    "dev_donatehelp"           => "per ajudar amb el desenvolupament",
    "feed_loading"             => "S'està carregant...",
-   "other_linux"              => "Altres distribucions Linux",
    "source_code"              => "Codi font",
    "choose_os"                => "Trieu el vostre sistema operatiu",
    "windows_text"             => "L'instal·lador i la versió portable de Windows es poden baixar en fer clic en els enllaços de sota.",

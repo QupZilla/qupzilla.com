@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Izstrādnes jaunumi",
    "dev_donatehelp"           => "lai palīdzētu izstrādes procesā",
    "feed_loading"             => "Ielādē...",
-   "other_linux"              => "Citi „Linux“",
    "source_code"              => "Pirmkods",
    "choose_os"                => "Lūdzu, izvēlies savu operētājsistēmu",
    "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",

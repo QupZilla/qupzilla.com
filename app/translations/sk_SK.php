@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Vývojové novinky",
    "dev_donatehelp"           => "k vývoju",
    "feed_loading"             => "Nahrávam...",
-   "other_linux"              => "Ostatné Linuxy",
    "source_code"              => "Zdrojový kód",
    "choose_os"                => "Prosím, zvoľte si operačný systém",
    "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",

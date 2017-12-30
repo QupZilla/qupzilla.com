@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "开发进展",
    "dev_donatehelp"           => "帮助开发",
    "feed_loading"             => "载入中…",
-   "other_linux"              => "其它 Linux",
    "source_code"              => "源代码",
    "choose_os"                => "请选择您的操作系统",
    "windows_text"             => "可通过下面的链接下载 Windows Installer 和可移动版本",

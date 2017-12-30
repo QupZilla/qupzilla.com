@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Nieuws over de ontwikkeling (Engels)",
    "dev_donatehelp"           => "om te helpen met de ontwikkeling",
    "feed_loading"             => "Bezig met laden...",
-   "other_linux"              => "Overige Linux-distributies",
    "source_code"              => "Broncode",
    "choose_os"                => "Kies uw besturingssysteem",
    "windows_text"             => "De Windows-installatiewizard en portable versie kunnen worden gedownload door te klikken op de onderstaande links",

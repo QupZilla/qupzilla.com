@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Tuzish yangiliklari",
    "dev_donatehelp"           => "to help with development",
    "feed_loading"             => "Yuklanmoqda...",
-   "other_linux"              => "Boshqa Linux",
    "source_code"              => "Manba kodi",
    "choose_os"                => "Operatsion tizimingizni tanlang",
    "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",

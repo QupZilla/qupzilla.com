@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "خبرهای توسعه",
    "dev_donatehelp"           => "to help with development",
    "feed_loading"             => "بارگذاری...",
-   "other_linux"              => "لینوکس های دیگر",
    "source_code"              => "سورس کد",
    "choose_os"                => "لطفا سیستم‌عامل موردنظرتان را انتخاب کنید",
    "windows_text"             => "Windows installer and portable version can be downloaded by clicking on links below",

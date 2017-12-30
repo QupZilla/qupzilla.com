@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Kabar Pengembangan",
    "dev_donatehelp"           => "untuk membantu pengembangan",
    "feed_loading"             => "Memuat...",
-   "other_linux"              => "Linux Lainnya",
    "source_code"              => "Kode Sumber",
    "choose_os"                => "Silakan pilih sistem operasi anda",
    "windows_text"             => "Versi untuk Windows dan portabel dapat diunduh dengan mengklik tautan berikut",

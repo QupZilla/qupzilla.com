@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "חדשות פיתוח",
    "dev_donatehelp"           => "כדי לעזור בפיתוח",
    "feed_loading"             => "כעת טוען...",
-   "other_linux"              => "Linux אחרת",
    "source_code"              => "קוד מקור",
    "choose_os"                => "אנא בחר את מערכת ההפעלה שלך",
    "windows_text"             => "מתקין למערכת חלונות וגרסא ניידת ניתנות להורדה על ידי לחיצה על הקישורים מטה",

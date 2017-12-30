@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Novosti o razvoju",
    "dev_donatehelp"           => "da biste pomogli razvoj",
    "feed_loading"             => "Učitavanje...",
-   "other_linux"              => "Ostali Linuksi",
    "source_code"              => "Izvorni kôd",
    "choose_os"                => "Izaberite vaš operativni sistem",
    "windows_text"             => "Instalater i prenosno izdanje za Vindouz možete preuzeti klikom na veze ispod",

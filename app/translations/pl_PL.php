@@ -24,7 +24,6 @@ Dzięki wbudowanemu czytnikowi RSS, można pozostać na bieżąco z ulubionymi s
    "devnews_header"           => "Nowości",
    "dev_donatehelp"           => "aby pomóc w rozwoju",
    "feed_loading"             => "Ładuje...",
-   "other_linux"              => "Inny z rodziny Linux",
    "source_code"              => "Kod Źródłowy",
    "choose_os"                => "Wybierz system operacyjny",
    "windows_text"             => "Instalator i wersja portable dla Windows mogą być pobrane poprzez kliknięcie w poniższe linki",

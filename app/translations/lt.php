@@ -23,7 +23,6 @@ $LANG = array(
    "devnews_header"           => "Kūrimo naujienos",
    "dev_donatehelp"           => "kad padėtumėte su kūrimu",
    "feed_loading"             => "Įkeliama...",
-   "other_linux"              => "Kitos Linux",
    "source_code"              => "Pirminis kodas",
    "choose_os"                => "Prašome pasirinkti savo operacinę sistemą",
    "windows_text"             => "Windows diegimo programa ir perkeliama versija gali būti atsisiųsta, spustelėjant žemiau esančias nuorodas",
