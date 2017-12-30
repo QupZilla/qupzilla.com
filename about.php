@@ -19,7 +19,7 @@
              <div style="height:10px;"></div>
              <b>IRC:</b> nowrep (irc.freenode.net) <br/>
              <b>E-mail:</b> nowrep at gmail dot com <br/>
-             <b>Jabber/XMPP:</b> drosca@kdetalk.net
+             <b>Jabber/XMPP:</b> nowrep at jabbim dot cz
              </p>
             </p>
             <p style="clear:both;"></p>
