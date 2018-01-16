@@ -11,11 +11,11 @@
     $download_link = 'download';
     if (stripos($_SERVER['HTTP_USER_AGENT'];, 'windows') !== false) {
         $download_link .= '#windows';
-    } else if (stripos($_SERVER['HTTP_USER_AGENT'];, 'mac os x') !== false) {
+    } else if (stripos($_SERVER['HTTP_USER_AGENT'], 'mac os x') !== false) {
         $download_link .= '#mac';
-    } else if (stripos($_SERVER['HTTP_USER_AGENT'];, 'ubuntu') !== false) {
+    } else if (stripos($_SERVER['HTTP_USER_AGENT'], 'ubuntu') !== false) {
         $download_link .= '#ubuntu';
-    } else if (stripos($_SERVER['HTTP_USER_AGENT'];, 'linux') !== false) {
+    } else if (stripos($_SERVER['HTTP_USER_AGENT'], 'linux') !== false) {
         $download_link .= '#linux';
     }
 ?>
