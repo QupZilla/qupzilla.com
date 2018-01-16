@@ -9,7 +9,7 @@
 	 <div class="download-text"><?php echo $LANG["header_description"]; ?></div>
 <?php
     $download_link = 'download';
-    if (stripos($_SERVER['HTTP_USER_AGENT'];, 'windows') !== false) {
+    if (stripos($_SERVER['HTTP_USER_AGENT'], 'windows') !== false) {
         $download_link .= '#windows';
     } else if (stripos($_SERVER['HTTP_USER_AGENT'], 'mac os x') !== false) {
         $download_link .= '#mac';
