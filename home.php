@@ -7,7 +7,19 @@
 	 <div class="top-column-right">
 	 <div id="download-box">
 	 <div class="download-text"><?php echo $LANG["header_description"]; ?></div>
-	 <a href="download" class="download-button"><?php echo $LANG["actual_version_button"]; ?></a> <span class="download-version"><?php echo $qupzilla_version; ?></span>
+<?php
+    $download_link = 'download';
+    if (stripos($_SERVER['HTTP_USER_AGENT'];, 'windows') !== false) {
+        $download_link .= '#windows';
+    } else if (stripos($_SERVER['HTTP_USER_AGENT'];, 'mac os x') !== false) {
+        $download_link .= '#mac';
+    } else if (stripos($_SERVER['HTTP_USER_AGENT'];, 'ubuntu') !== false) {
+        $download_link .= '#ubuntu';
+    } else if (stripos($_SERVER['HTTP_USER_AGENT'];, 'linux') !== false) {
+        $download_link .= '#linux';
+    }
+?>
+     <a href="<?php echo $download_link; ?>" class="download-button"><?php echo $LANG["actual_version_button"]; ?></a> <span class="download-version"><?php echo $qupzilla_version; ?></span>
 	 </div>
 	 </div>
 	</div>
