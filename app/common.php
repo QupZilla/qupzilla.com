@@ -1,10 +1,10 @@
 <?php
 // Globals
-$qupzilla_version = "2.2.4";
+$qupzilla_version = "2.2.5";
 
 // Files
 $qupzilla_downloads = [
-    "appimage" => "/uploads/QupZilla-2.2.4.AppImage",
+    "appimage" => "/uploads/QupZilla-2.2.5.AppImage",
     "mac" => "/uploads/QupZilla-2.2.4.dmg",
     "os2" => "/uploads/qupzilla-1.8.9-os2.7z"
 ];
