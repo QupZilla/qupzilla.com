@@ -29,7 +29,7 @@ Mit dem integrierten RSS-Reader bleiben Sie immer auf dem neuesten Stand Ihrer I
    "windows_text"             => "Windows Installer und Portabel-Version kann beim Link hierunten heruntergeladen werden ",
    "ubuntu_text"              => "Ubuntu-Nutzer und Nutzer anderer Ubuntu-basierender Distributionen können QupZilla durch Ausführen der folgenden Befehle installieren:",
    "install_run_command"      => "Installieren Sie QupZilla durch Ausführen dieses Befehls:",
-   "appimage_text"            => "AppImage",
+   "appimage_text"            => "App Bild",
    "tarballs_text"            => "Vorkompilierte 32bit- und 64bit-TAR-Archive",
    "qupzilla_for_text"        => "QupZilla für",
    "can_be_downloaded"        => "bitte hier herunterladen:",
