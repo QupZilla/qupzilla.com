@@ -33,11 +33,13 @@
   <link rel="stylesheet" href="css/lang/<?php echo $lang_id; ?>.css" type="text/css" media="all">
 </head>
 <body>
-    <?php if ($lang_direction == "RTL") { ?>
-        <a target="_blank" href="https://github.com/QupZilla/"><img class="forkme" style="position: absolute; top: 0; left: 0; right: auto; border: 0;" src="images/forkme_rtl.png" alt="Fork me on GitHub"></a>
-    <?php } else { ?>
-        <a target="_blank" href="https://github.com/QupZilla/"><img class="forkme" style="position: absolute; top: 0; left: auto; right: 0; border: 0;" src="images/forkme.png" alt="Fork me on GitHub"></a>
-    <?php } ?>
+
+    <a href="https://falkon.org" style="text-decoration:none;">
+    <div style="text-align:center;padding:10px;background:#7d339e;color:#ffffff;">
+        <img style="display:block;margin:0 auto 10px auto;" src="images/falkon.svg">
+        QupZilla continues development as <b>Falkon browser</b>. There will be no more QupZilla releases.
+    </div>
+    </a>
 
 <!-- header -->
   <header>
